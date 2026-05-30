@@ -1,0 +1,3649 @@
+{
+    "_meta": {
+        "source": "https://warframe.market/zh-hans/tools/ducats",
+        "api": "https://api.warframe.market/v2/items",
+        "filter": "prime + ducats > 0",
+        "count": 728,
+        "note": "未应用；确认后可手动替换或合并到 items.json"
+    },
+    "Ash Prime 一套": {
+        "url_name": "ash_prime_set",
+        "real_cn_name": "Ash Prime 一套",
+        "ducats": 170
+    },
+    "Ash Prime 头部神经光元 蓝图": {
+        "url_name": "ash_prime_neuroptics_blueprint",
+        "real_cn_name": "Ash Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Ash Prime 机体 蓝图": {
+        "url_name": "ash_prime_chassis_blueprint",
+        "real_cn_name": "Ash Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Ash Prime 系统 蓝图": {
+        "url_name": "ash_prime_systems_blueprint",
+        "real_cn_name": "Ash Prime 系统 蓝图",
+        "ducats": 65
+    },
+    "Ash Prime 蓝图": {
+        "url_name": "ash_prime_blueprint",
+        "real_cn_name": "Ash Prime 蓝图",
+        "ducats": 45
+    },
+    "Atlas Prime 一套": {
+        "url_name": "atlas_prime_set",
+        "real_cn_name": "Atlas Prime 一套",
+        "ducats": 205
+    },
+    "Atlas Prime 头部神经光元 蓝图": {
+        "url_name": "atlas_prime_neuroptics_blueprint",
+        "real_cn_name": "Atlas Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Atlas Prime 机体 蓝图": {
+        "url_name": "atlas_prime_chassis_blueprint",
+        "real_cn_name": "Atlas Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Atlas Prime 系统 蓝图": {
+        "url_name": "atlas_prime_systems_blueprint",
+        "real_cn_name": "Atlas Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Atlas Prime 蓝图": {
+        "url_name": "atlas_prime_blueprint",
+        "real_cn_name": "Atlas Prime 蓝图",
+        "ducats": 15
+    },
+    "Banshee Prime 一套": {
+        "url_name": "banshee_prime_set",
+        "real_cn_name": "Banshee Prime 一套",
+        "ducats": 225
+    },
+    "Banshee Prime 头部神经光元 蓝图": {
+        "url_name": "banshee_prime_neuroptics_blueprint",
+        "real_cn_name": "Banshee Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Banshee Prime 机体 蓝图": {
+        "url_name": "banshee_prime_chassis_blueprint",
+        "real_cn_name": "Banshee Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Banshee Prime 系统 蓝图": {
+        "url_name": "banshee_prime_systems_blueprint",
+        "real_cn_name": "Banshee Prime 系统 蓝图",
+        "ducats": 65
+    },
+    "Banshee Prime 蓝图": {
+        "url_name": "banshee_prime_blueprint",
+        "real_cn_name": "Banshee Prime 蓝图",
+        "ducats": 45
+    },
+    "Baruuk Prime 一套": {
+        "url_name": "baruuk_prime_set",
+        "real_cn_name": "Baruuk Prime 一套",
+        "ducats": 225
+    },
+    "Baruuk Prime 头部神经光元 蓝图": {
+        "url_name": "baruuk_prime_neuroptics_blueprint",
+        "real_cn_name": "Baruuk Prime 头部神经光元 蓝图",
+        "ducats": 65
+    },
+    "Baruuk Prime 机体 蓝图": {
+        "url_name": "baruuk_prime_chassis_blueprint",
+        "real_cn_name": "Baruuk Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Baruuk Prime 系统 蓝图": {
+        "url_name": "baruuk_prime_systems_blueprint",
+        "real_cn_name": "Baruuk Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Baruuk Prime 蓝图": {
+        "url_name": "baruuk_prime_blueprint",
+        "real_cn_name": "Baruuk Prime 蓝图",
+        "ducats": 100
+    },
+    "Caliban Prime 一套": {
+        "url_name": "caliban_prime_set",
+        "real_cn_name": "Caliban Prime 一套",
+        "ducats": 260
+    },
+    "Caliban Prime 头部神经光元 蓝图": {
+        "url_name": "caliban_prime_neuroptics_blueprint",
+        "real_cn_name": "Caliban Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Caliban Prime 机体 蓝图": {
+        "url_name": "caliban_prime_chassis_blueprint",
+        "real_cn_name": "Caliban Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Caliban Prime 系统 蓝图": {
+        "url_name": "caliban_prime_systems_blueprint",
+        "real_cn_name": "Caliban Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Caliban Prime 蓝图": {
+        "url_name": "caliban_prime_blueprint",
+        "real_cn_name": "Caliban Prime 蓝图",
+        "ducats": 45
+    },
+    "Chroma Prime 一套": {
+        "url_name": "chroma_prime_set",
+        "real_cn_name": "Chroma Prime 一套",
+        "ducats": 205
+    },
+    "Chroma Prime 头部神经光元 蓝图": {
+        "url_name": "chroma_prime_neuroptics_blueprint",
+        "real_cn_name": "Chroma Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Chroma Prime 机体 蓝图": {
+        "url_name": "chroma_prime_chassis_blueprint",
+        "real_cn_name": "Chroma Prime 机体 蓝图",
+        "ducats": 25
+    },
+    "Chroma Prime 系统 蓝图": {
+        "url_name": "chroma_prime_systems_blueprint",
+        "real_cn_name": "Chroma Prime 系统 蓝图",
+        "ducats": 65
+    },
+    "Chroma Prime 蓝图": {
+        "url_name": "chroma_prime_blueprint",
+        "real_cn_name": "Chroma Prime 蓝图",
+        "ducats": 15
+    },
+    "Ember Prime 一套": {
+        "url_name": "ember_prime_set",
+        "real_cn_name": "Ember Prime 一套",
+        "ducats": 175
+    },
+    "Ember Prime 头部神经光元 蓝图": {
+        "url_name": "ember_prime_neuroptics_blueprint",
+        "real_cn_name": "Ember Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Ember Prime 机体 蓝图": {
+        "url_name": "ember_prime_chassis_blueprint",
+        "real_cn_name": "Ember Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Ember Prime 系统 蓝图": {
+        "url_name": "ember_prime_systems_blueprint",
+        "real_cn_name": "Ember Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Ember Prime 蓝图": {
+        "url_name": "ember_prime_blueprint",
+        "real_cn_name": "Ember Prime 蓝图",
+        "ducats": 100
+    },
+    "Equinox Prime 一套": {
+        "url_name": "equinox_prime_set",
+        "real_cn_name": "Equinox Prime 一套",
+        "ducats": 205
+    },
+    "Equinox Prime 头部神经光元 蓝图": {
+        "url_name": "equinox_prime_neuroptics_blueprint",
+        "real_cn_name": "Equinox Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Equinox Prime 机体 蓝图": {
+        "url_name": "equinox_prime_chassis_blueprint",
+        "real_cn_name": "Equinox Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Equinox Prime 系统 蓝图": {
+        "url_name": "equinox_prime_systems_blueprint",
+        "real_cn_name": "Equinox Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Equinox Prime 蓝图": {
+        "url_name": "equinox_prime_blueprint",
+        "real_cn_name": "Equinox Prime 蓝图",
+        "ducats": 45
+    },
+    "Frost Prime 一套": {
+        "url_name": "frost_prime_set",
+        "real_cn_name": "Frost Prime 一套",
+        "ducats": 175
+    },
+    "Frost Prime 头部神经光元 蓝图": {
+        "url_name": "frost_prime_neuroptics_blueprint",
+        "real_cn_name": "Frost Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Frost Prime 机体 蓝图": {
+        "url_name": "frost_prime_chassis_blueprint",
+        "real_cn_name": "Frost Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Frost Prime 系统 蓝图": {
+        "url_name": "frost_prime_systems_blueprint",
+        "real_cn_name": "Frost Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Frost Prime 蓝图": {
+        "url_name": "frost_prime_blueprint",
+        "real_cn_name": "Frost Prime 蓝图",
+        "ducats": 100
+    },
+    "Gara Prime 一套": {
+        "url_name": "gara_prime_set",
+        "real_cn_name": "Gara Prime 一套",
+        "ducats": 205
+    },
+    "Gara Prime 头部神经光元 蓝图": {
+        "url_name": "gara_prime_neuroptics_blueprint",
+        "real_cn_name": "Gara Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Gara Prime 机体 蓝图": {
+        "url_name": "gara_prime_chassis_blueprint",
+        "real_cn_name": "Gara Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Gara Prime 系统 蓝图": {
+        "url_name": "gara_prime_systems_blueprint",
+        "real_cn_name": "Gara Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Gara Prime 蓝图": {
+        "url_name": "gara_prime_blueprint",
+        "real_cn_name": "Gara Prime 蓝图",
+        "ducats": 100
+    },
+    "Garuda Prime 一套": {
+        "url_name": "garuda_prime_set",
+        "real_cn_name": "Garuda Prime 一套",
+        "ducats": 225
+    },
+    "Garuda Prime 头部神经光元 蓝图": {
+        "url_name": "garuda_prime_neuroptics_blueprint",
+        "real_cn_name": "Garuda Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Garuda Prime 机体 蓝图": {
+        "url_name": "garuda_prime_chassis_blueprint",
+        "real_cn_name": "Garuda Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Garuda Prime 系统 蓝图": {
+        "url_name": "garuda_prime_systems_blueprint",
+        "real_cn_name": "Garuda Prime 系统 蓝图",
+        "ducats": 65
+    },
+    "Garuda Prime 蓝图": {
+        "url_name": "garuda_prime_blueprint",
+        "real_cn_name": "Garuda Prime 蓝图",
+        "ducats": 15
+    },
+    "Gauss Prime 一套": {
+        "url_name": "gauss_prime_set",
+        "real_cn_name": "Gauss Prime 一套",
+        "ducats": 185
+    },
+    "Gauss Prime 头部神经光元 蓝图": {
+        "url_name": "gauss_prime_neuroptics_blueprint",
+        "real_cn_name": "Gauss Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Gauss Prime 机体 蓝图": {
+        "url_name": "gauss_prime_chassis_blueprint",
+        "real_cn_name": "Gauss Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Gauss Prime 系统 蓝图": {
+        "url_name": "gauss_prime_systems_blueprint",
+        "real_cn_name": "Gauss Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Gauss Prime 蓝图": {
+        "url_name": "gauss_prime_blueprint",
+        "real_cn_name": "Gauss Prime 蓝图",
+        "ducats": 25
+    },
+    "Grendel Prime 一套": {
+        "url_name": "grendel_prime_set",
+        "real_cn_name": "Grendel Prime 一套",
+        "ducats": 225
+    },
+    "Grendel Prime 头部神经光元 蓝图": {
+        "url_name": "grendel_prime_neuroptics_blueprint",
+        "real_cn_name": "Grendel Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Grendel Prime 机体 蓝图": {
+        "url_name": "grendel_prime_chassis_blueprint",
+        "real_cn_name": "Grendel Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Grendel Prime 系统 蓝图": {
+        "url_name": "grendel_prime_systems_blueprint",
+        "real_cn_name": "Grendel Prime 系统 蓝图",
+        "ducats": 65
+    },
+    "Grendel Prime 蓝图": {
+        "url_name": "grendel_prime_blueprint",
+        "real_cn_name": "Grendel Prime 蓝图",
+        "ducats": 100
+    },
+    "Gyre Prime 一套": {
+        "url_name": "gyre_prime_set",
+        "real_cn_name": "Gyre Prime 一套",
+        "ducats": 205
+    },
+    "Gyre Prime 头部神经光元 蓝图": {
+        "url_name": "gyre_prime_neuroptics_blueprint",
+        "real_cn_name": "Gyre Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Gyre Prime 机体 蓝图": {
+        "url_name": "gyre_prime_chassis_blueprint",
+        "real_cn_name": "Gyre Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Gyre Prime 系统 蓝图": {
+        "url_name": "gyre_prime_systems_blueprint",
+        "real_cn_name": "Gyre Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Gyre Prime 蓝图": {
+        "url_name": "gyre_prime_blueprint",
+        "real_cn_name": "Gyre Prime 蓝图",
+        "ducats": 45
+    },
+    "Harrow Prime 一套": {
+        "url_name": "harrow_prime_set",
+        "real_cn_name": "Harrow Prime 一套",
+        "ducats": 205
+    },
+    "Harrow Prime 头部神经光元 蓝图": {
+        "url_name": "harrow_prime_neuroptics_blueprint",
+        "real_cn_name": "Harrow Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Harrow Prime 机体 蓝图": {
+        "url_name": "harrow_prime_chassis_blueprint",
+        "real_cn_name": "Harrow Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Harrow Prime 系统 蓝图": {
+        "url_name": "harrow_prime_systems_blueprint",
+        "real_cn_name": "Harrow Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Harrow Prime 蓝图": {
+        "url_name": "harrow_prime_blueprint",
+        "real_cn_name": "Harrow Prime 蓝图",
+        "ducats": 45
+    },
+    "Hildryn Prime 一套": {
+        "url_name": "hildryn_prime_set",
+        "real_cn_name": "Hildryn Prime 一套",
+        "ducats": 205
+    },
+    "Hildryn Prime 头部神经光元 蓝图": {
+        "url_name": "hildryn_prime_neuroptics_blueprint",
+        "real_cn_name": "Hildryn Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Hildryn Prime 机体 蓝图": {
+        "url_name": "hildryn_prime_chassis_blueprint",
+        "real_cn_name": "Hildryn Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Hildryn Prime 系统 蓝图": {
+        "url_name": "hildryn_prime_systems_blueprint",
+        "real_cn_name": "Hildryn Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Hildryn Prime 蓝图": {
+        "url_name": "hildryn_prime_blueprint",
+        "real_cn_name": "Hildryn Prime 蓝图",
+        "ducats": 100
+    },
+    "Hydroid Prime 一套": {
+        "url_name": "hydroid_prime_set",
+        "real_cn_name": "Hydroid Prime 一套",
+        "ducats": 205
+    },
+    "Hydroid Prime 头部神经光元 蓝图": {
+        "url_name": "hydroid_prime_neuroptics_blueprint",
+        "real_cn_name": "Hydroid Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Hydroid Prime 机体 蓝图": {
+        "url_name": "hydroid_prime_chassis_blueprint",
+        "real_cn_name": "Hydroid Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Hydroid Prime 系统 蓝图": {
+        "url_name": "hydroid_prime_systems_blueprint",
+        "real_cn_name": "Hydroid Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Hydroid Prime 蓝图": {
+        "url_name": "hydroid_prime_blueprint",
+        "real_cn_name": "Hydroid Prime 蓝图",
+        "ducats": 45
+    },
+    "Inaros Prime 一套": {
+        "url_name": "inaros_prime_set",
+        "real_cn_name": "Inaros Prime 一套",
+        "ducats": 205
+    },
+    "Inaros Prime 头部神经光元 蓝图": {
+        "url_name": "inaros_prime_neuroptics_blueprint",
+        "real_cn_name": "Inaros Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Inaros Prime 机体 蓝图": {
+        "url_name": "inaros_prime_chassis_blueprint",
+        "real_cn_name": "Inaros Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Inaros Prime 系统 蓝图": {
+        "url_name": "inaros_prime_systems_blueprint",
+        "real_cn_name": "Inaros Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Inaros Prime 蓝图": {
+        "url_name": "inaros_prime_blueprint",
+        "real_cn_name": "Inaros Prime 蓝图",
+        "ducats": 45
+    },
+    "Ivara Prime 一套": {
+        "url_name": "ivara_prime_set",
+        "real_cn_name": "Ivara Prime 一套",
+        "ducats": 205
+    },
+    "Ivara Prime 头部神经光元 蓝图": {
+        "url_name": "ivara_prime_neuroptics_blueprint",
+        "real_cn_name": "Ivara Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Ivara Prime 机体 蓝图": {
+        "url_name": "ivara_prime_chassis_blueprint",
+        "real_cn_name": "Ivara Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Ivara Prime 系统 蓝图": {
+        "url_name": "ivara_prime_systems_blueprint",
+        "real_cn_name": "Ivara Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Ivara Prime 蓝图": {
+        "url_name": "ivara_prime_blueprint",
+        "real_cn_name": "Ivara Prime 蓝图",
+        "ducats": 45
+    },
+    "Khora Prime 一套": {
+        "url_name": "khora_prime_set",
+        "real_cn_name": "Khora Prime 一套",
+        "ducats": 225
+    },
+    "Khora Prime 头部神经光元 蓝图": {
+        "url_name": "khora_prime_neuroptics_blueprint",
+        "real_cn_name": "Khora Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Khora Prime 机体 蓝图": {
+        "url_name": "khora_prime_chassis_blueprint",
+        "real_cn_name": "Khora Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Khora Prime 系统 蓝图": {
+        "url_name": "khora_prime_systems_blueprint",
+        "real_cn_name": "Khora Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Khora Prime 蓝图": {
+        "url_name": "khora_prime_blueprint",
+        "real_cn_name": "Khora Prime 蓝图",
+        "ducats": 65
+    },
+    "Lavos Prime 一套": {
+        "url_name": "lavos_prime_set",
+        "real_cn_name": "Lavos Prime 一套",
+        "ducats": 205
+    },
+    "Lavos Prime 头部神经光元 蓝图": {
+        "url_name": "lavos_prime_neuroptics_blueprint",
+        "real_cn_name": "Lavos Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Lavos Prime 机体 蓝图": {
+        "url_name": "lavos_prime_chassis_blueprint",
+        "real_cn_name": "Lavos Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Lavos Prime 系统 蓝图": {
+        "url_name": "lavos_prime_systems_blueprint",
+        "real_cn_name": "Lavos Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Lavos Prime 蓝图": {
+        "url_name": "lavos_prime_blueprint",
+        "real_cn_name": "Lavos Prime 蓝图",
+        "ducats": 45
+    },
+    "Limbo Prime 一套": {
+        "url_name": "limbo_prime_set",
+        "real_cn_name": "Limbo Prime 一套",
+        "ducats": 260
+    },
+    "Limbo Prime 头部神经光元 蓝图": {
+        "url_name": "limbo_prime_neuroptics_blueprint",
+        "real_cn_name": "Limbo Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Limbo Prime 机体 蓝图": {
+        "url_name": "limbo_prime_chassis_blueprint",
+        "real_cn_name": "Limbo Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Limbo Prime 系统 蓝图": {
+        "url_name": "limbo_prime_systems_blueprint",
+        "real_cn_name": "Limbo Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Limbo Prime 蓝图": {
+        "url_name": "limbo_prime_blueprint",
+        "real_cn_name": "Limbo Prime 蓝图",
+        "ducats": 45
+    },
+    "Loki Prime 一套": {
+        "url_name": "loki_prime_set",
+        "real_cn_name": "Loki Prime 一套",
+        "ducats": 175
+    },
+    "Loki Prime 头部神经光元 蓝图": {
+        "url_name": "loki_prime_neuroptics_blueprint",
+        "real_cn_name": "Loki Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Loki Prime 机体 蓝图": {
+        "url_name": "loki_prime_chassis_blueprint",
+        "real_cn_name": "Loki Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Loki Prime 系统 蓝图": {
+        "url_name": "loki_prime_systems_blueprint",
+        "real_cn_name": "Loki Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Loki Prime 蓝图": {
+        "url_name": "loki_prime_blueprint",
+        "real_cn_name": "Loki Prime 蓝图",
+        "ducats": 15
+    },
+    "Mag Prime 一套": {
+        "url_name": "mag_prime_set",
+        "real_cn_name": "Mag Prime 一套",
+        "ducats": 175
+    },
+    "Mag Prime 头部神经光元 蓝图": {
+        "url_name": "mag_prime_neuroptics_blueprint",
+        "real_cn_name": "Mag Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Mag Prime 机体 蓝图": {
+        "url_name": "mag_prime_chassis_blueprint",
+        "real_cn_name": "Mag Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Mag Prime 系统 蓝图": {
+        "url_name": "mag_prime_systems_blueprint",
+        "real_cn_name": "Mag Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Mag Prime 蓝图": {
+        "url_name": "mag_prime_blueprint",
+        "real_cn_name": "Mag Prime 蓝图",
+        "ducats": 100
+    },
+    "Mesa Prime 一套": {
+        "url_name": "mesa_prime_set",
+        "real_cn_name": "Mesa Prime 一套",
+        "ducats": 260
+    },
+    "Mesa Prime 头部神经光元 蓝图": {
+        "url_name": "mesa_prime_neuroptics_blueprint",
+        "real_cn_name": "Mesa Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Mesa Prime 机体 蓝图": {
+        "url_name": "mesa_prime_chassis_blueprint",
+        "real_cn_name": "Mesa Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Mesa Prime 系统 蓝图": {
+        "url_name": "mesa_prime_systems_blueprint",
+        "real_cn_name": "Mesa Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Mesa Prime 蓝图": {
+        "url_name": "mesa_prime_blueprint",
+        "real_cn_name": "Mesa Prime 蓝图",
+        "ducats": 45
+    },
+    "Mirage Prime 一套": {
+        "url_name": "mirage_prime_set",
+        "real_cn_name": "Mirage Prime 一套",
+        "ducats": 175
+    },
+    "Mirage Prime 头部神经光元 蓝图": {
+        "url_name": "mirage_prime_neuroptics_blueprint",
+        "real_cn_name": "Mirage Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Mirage Prime 机体 蓝图": {
+        "url_name": "mirage_prime_chassis_blueprint",
+        "real_cn_name": "Mirage Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Mirage Prime 系统 蓝图": {
+        "url_name": "mirage_prime_systems_blueprint",
+        "real_cn_name": "Mirage Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Mirage Prime 蓝图": {
+        "url_name": "mirage_prime_blueprint",
+        "real_cn_name": "Mirage Prime 蓝图",
+        "ducats": 100
+    },
+    "Nekros Prime 一套": {
+        "url_name": "nekros_prime_set",
+        "real_cn_name": "Nekros Prime 一套",
+        "ducats": 225
+    },
+    "Nekros Prime 头部神经光元 蓝图": {
+        "url_name": "nekros_prime_neuroptics_blueprint",
+        "real_cn_name": "Nekros Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Nekros Prime 机体 蓝图": {
+        "url_name": "nekros_prime_chassis_blueprint",
+        "real_cn_name": "Nekros Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Nekros Prime 系统 蓝图": {
+        "url_name": "nekros_prime_systems_blueprint",
+        "real_cn_name": "Nekros Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Nekros Prime 蓝图": {
+        "url_name": "nekros_prime_blueprint",
+        "real_cn_name": "Nekros Prime 蓝图",
+        "ducats": 65
+    },
+    "Nezha Prime 一套": {
+        "url_name": "nezha_prime_set",
+        "real_cn_name": "Nezha Prime 一套",
+        "ducats": 260
+    },
+    "Nezha Prime 头部神经光元 蓝图": {
+        "url_name": "nezha_prime_neuroptics_blueprint",
+        "real_cn_name": "Nezha Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Nezha Prime 机体 蓝图": {
+        "url_name": "nezha_prime_chassis_blueprint",
+        "real_cn_name": "Nezha Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Nezha Prime 系统 蓝图": {
+        "url_name": "nezha_prime_systems_blueprint",
+        "real_cn_name": "Nezha Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Nezha Prime 蓝图": {
+        "url_name": "nezha_prime_blueprint",
+        "real_cn_name": "Nezha Prime 蓝图",
+        "ducats": 45
+    },
+    "Nidus Prime 一套": {
+        "url_name": "nidus_prime_set",
+        "real_cn_name": "Nidus Prime 一套",
+        "ducats": 225
+    },
+    "Nidus Prime 头部神经光元 蓝图": {
+        "url_name": "nidus_prime_neuroptics_blueprint",
+        "real_cn_name": "Nidus Prime 头部神经光元 蓝图",
+        "ducats": 65
+    },
+    "Nidus Prime 机体 蓝图": {
+        "url_name": "nidus_prime_chassis_blueprint",
+        "real_cn_name": "Nidus Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Nidus Prime 系统 蓝图": {
+        "url_name": "nidus_prime_systems_blueprint",
+        "real_cn_name": "Nidus Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Nidus Prime 蓝图": {
+        "url_name": "nidus_prime_blueprint",
+        "real_cn_name": "Nidus Prime 蓝图",
+        "ducats": 45
+    },
+    "Nova Prime 一套": {
+        "url_name": "nova_prime_set",
+        "real_cn_name": "Nova Prime 一套",
+        "ducats": 175
+    },
+    "Nova Prime 头部神经光元 蓝图": {
+        "url_name": "nova_prime_neuroptics_blueprint",
+        "real_cn_name": "Nova Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Nova Prime 机体 蓝图": {
+        "url_name": "nova_prime_chassis_blueprint",
+        "real_cn_name": "Nova Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Nova Prime 系统 蓝图": {
+        "url_name": "nova_prime_systems_blueprint",
+        "real_cn_name": "Nova Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Nova Prime 蓝图": {
+        "url_name": "nova_prime_blueprint",
+        "real_cn_name": "Nova Prime 蓝图",
+        "ducats": 45
+    },
+    "Nyx Prime 一套": {
+        "url_name": "nyx_prime_set",
+        "real_cn_name": "Nyx Prime 一套",
+        "ducats": 225
+    },
+    "Nyx Prime 头部神经光元 蓝图": {
+        "url_name": "nyx_prime_neuroptics_blueprint",
+        "real_cn_name": "Nyx Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Nyx Prime 机体 蓝图": {
+        "url_name": "nyx_prime_chassis_blueprint",
+        "real_cn_name": "Nyx Prime 机体 蓝图",
+        "ducats": 65
+    },
+    "Nyx Prime 系统 蓝图": {
+        "url_name": "nyx_prime_systems_blueprint",
+        "real_cn_name": "Nyx Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Nyx Prime 蓝图": {
+        "url_name": "nyx_prime_blueprint",
+        "real_cn_name": "Nyx Prime 蓝图",
+        "ducats": 15
+    },
+    "Oberon Prime 一套": {
+        "url_name": "oberon_prime_set",
+        "real_cn_name": "Oberon Prime 一套",
+        "ducats": 225
+    },
+    "Oberon Prime 头部神经光元 蓝图": {
+        "url_name": "oberon_prime_neuroptics_blueprint",
+        "real_cn_name": "Oberon Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Oberon Prime 机体 蓝图": {
+        "url_name": "oberon_prime_chassis_blueprint",
+        "real_cn_name": "Oberon Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Oberon Prime 系统 蓝图": {
+        "url_name": "oberon_prime_systems_blueprint",
+        "real_cn_name": "Oberon Prime 系统 蓝图",
+        "ducats": 65
+    },
+    "Oberon Prime 蓝图": {
+        "url_name": "oberon_prime_blueprint",
+        "real_cn_name": "Oberon Prime 蓝图",
+        "ducats": 45
+    },
+    "Octavia Prime 一套": {
+        "url_name": "octavia_prime_set",
+        "real_cn_name": "Octavia Prime 一套",
+        "ducats": 175
+    },
+    "Octavia Prime 头部神经光元 蓝图": {
+        "url_name": "octavia_prime_neuroptics_blueprint",
+        "real_cn_name": "Octavia Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Octavia Prime 机体 蓝图": {
+        "url_name": "octavia_prime_chassis_blueprint",
+        "real_cn_name": "Octavia Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Octavia Prime 系统 蓝图": {
+        "url_name": "octavia_prime_systems_blueprint",
+        "real_cn_name": "Octavia Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Octavia Prime 蓝图": {
+        "url_name": "octavia_prime_blueprint",
+        "real_cn_name": "Octavia Prime 蓝图",
+        "ducats": 100
+    },
+    "Protea Prime 一套": {
+        "url_name": "protea_prime_set",
+        "real_cn_name": "Protea Prime 一套",
+        "ducats": 260
+    },
+    "Protea Prime 头部神经光元 蓝图": {
+        "url_name": "protea_prime_neuroptics_blueprint",
+        "real_cn_name": "Protea Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Protea Prime 机体 蓝图": {
+        "url_name": "protea_prime_chassis_blueprint",
+        "real_cn_name": "Protea Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Protea Prime 系统 蓝图": {
+        "url_name": "protea_prime_systems_blueprint",
+        "real_cn_name": "Protea Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Protea Prime 蓝图": {
+        "url_name": "protea_prime_blueprint",
+        "real_cn_name": "Protea Prime 蓝图",
+        "ducats": 15
+    },
+    "Revenant Prime 一套": {
+        "url_name": "revenant_prime_set",
+        "real_cn_name": "Revenant Prime 一套",
+        "ducats": 205
+    },
+    "Revenant Prime 头部神经光元 蓝图": {
+        "url_name": "revenant_prime_neuroptics_blueprint",
+        "real_cn_name": "Revenant Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Revenant Prime 机体 蓝图": {
+        "url_name": "revenant_prime_chassis_blueprint",
+        "real_cn_name": "Revenant Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Revenant Prime 系统 蓝图": {
+        "url_name": "revenant_prime_systems_blueprint",
+        "real_cn_name": "Revenant Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Revenant Prime 蓝图": {
+        "url_name": "revenant_prime_blueprint",
+        "real_cn_name": "Revenant Prime 蓝图",
+        "ducats": 100
+    },
+    "Rhino Prime 一套": {
+        "url_name": "rhino_prime_set",
+        "real_cn_name": "Rhino Prime 一套",
+        "ducats": 225
+    },
+    "Rhino Prime 头部神经光元 蓝图": {
+        "url_name": "rhino_prime_neuroptics_blueprint",
+        "real_cn_name": "Rhino Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Rhino Prime 机体 蓝图": {
+        "url_name": "rhino_prime_chassis_blueprint",
+        "real_cn_name": "Rhino Prime 机体 蓝图",
+        "ducats": 65
+    },
+    "Rhino Prime 系统 蓝图": {
+        "url_name": "rhino_prime_systems_blueprint",
+        "real_cn_name": "Rhino Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Rhino Prime 蓝图": {
+        "url_name": "rhino_prime_blueprint",
+        "real_cn_name": "Rhino Prime 蓝图",
+        "ducats": 100
+    },
+    "Saryn Prime 一套": {
+        "url_name": "saryn_prime_set",
+        "real_cn_name": "Saryn Prime 一套",
+        "ducats": 225
+    },
+    "Saryn Prime 头部神经光元 蓝图": {
+        "url_name": "saryn_prime_neuroptics_blueprint",
+        "real_cn_name": "Saryn Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Saryn Prime 机体 蓝图": {
+        "url_name": "saryn_prime_chassis_blueprint",
+        "real_cn_name": "Saryn Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Saryn Prime 系统 蓝图": {
+        "url_name": "saryn_prime_systems_blueprint",
+        "real_cn_name": "Saryn Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Saryn Prime 蓝图": {
+        "url_name": "saryn_prime_blueprint",
+        "real_cn_name": "Saryn Prime 蓝图",
+        "ducats": 65
+    },
+    "Sevagoth Prime 一套": {
+        "url_name": "sevagoth_prime_set",
+        "real_cn_name": "Sevagoth Prime 一套",
+        "ducats": 175
+    },
+    "Sevagoth Prime 头部神经光元 蓝图": {
+        "url_name": "sevagoth_prime_neuroptics_blueprint",
+        "real_cn_name": "Sevagoth Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Sevagoth Prime 机体 蓝图": {
+        "url_name": "sevagoth_prime_chassis_blueprint",
+        "real_cn_name": "Sevagoth Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Sevagoth Prime 系统 蓝图": {
+        "url_name": "sevagoth_prime_systems_blueprint",
+        "real_cn_name": "Sevagoth Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Sevagoth Prime 蓝图": {
+        "url_name": "sevagoth_prime_blueprint",
+        "real_cn_name": "Sevagoth Prime 蓝图",
+        "ducats": 45
+    },
+    "Titania Prime 一套": {
+        "url_name": "titania_prime_set",
+        "real_cn_name": "Titania Prime 一套",
+        "ducats": 205
+    },
+    "Titania Prime 头部神经光元 蓝图": {
+        "url_name": "titania_prime_neuroptics_blueprint",
+        "real_cn_name": "Titania Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Titania Prime 机体 蓝图": {
+        "url_name": "titania_prime_chassis_blueprint",
+        "real_cn_name": "Titania Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Titania Prime 系统 蓝图": {
+        "url_name": "titania_prime_systems_blueprint",
+        "real_cn_name": "Titania Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Titania Prime 蓝图": {
+        "url_name": "titania_prime_blueprint",
+        "real_cn_name": "Titania Prime 蓝图",
+        "ducats": 45
+    },
+    "Trinity Prime 一套": {
+        "url_name": "trinity_prime_set",
+        "real_cn_name": "Trinity Prime 一套",
+        "ducats": 130
+    },
+    "Trinity Prime 头部神经光元 蓝图": {
+        "url_name": "trinity_prime_neuroptics_blueprint",
+        "real_cn_name": "Trinity Prime 头部神经光元 蓝图",
+        "ducats": 25
+    },
+    "Trinity Prime 机体 蓝图": {
+        "url_name": "trinity_prime_chassis_blueprint",
+        "real_cn_name": "Trinity Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Trinity Prime 系统 蓝图": {
+        "url_name": "trinity_prime_systems_blueprint",
+        "real_cn_name": "Trinity Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Trinity Prime 蓝图": {
+        "url_name": "trinity_prime_blueprint",
+        "real_cn_name": "Trinity Prime 蓝图",
+        "ducats": 45
+    },
+    "Valkyr Prime 一套": {
+        "url_name": "valkyr_prime_set",
+        "real_cn_name": "Valkyr Prime 一套",
+        "ducats": 225
+    },
+    "Valkyr Prime 头部神经光元 蓝图": {
+        "url_name": "valkyr_prime_neuroptics_blueprint",
+        "real_cn_name": "Valkyr Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Valkyr Prime 机体 蓝图": {
+        "url_name": "valkyr_prime_chassis_blueprint",
+        "real_cn_name": "Valkyr Prime 机体 蓝图",
+        "ducats": 100
+    },
+    "Valkyr Prime 系统 蓝图": {
+        "url_name": "valkyr_prime_systems_blueprint",
+        "real_cn_name": "Valkyr Prime 系统 蓝图",
+        "ducats": 65
+    },
+    "Valkyr Prime 蓝图": {
+        "url_name": "valkyr_prime_blueprint",
+        "real_cn_name": "Valkyr Prime 蓝图",
+        "ducats": 15
+    },
+    "Vauban Prime 一套": {
+        "url_name": "vauban_prime_set",
+        "real_cn_name": "Vauban Prime 一套",
+        "ducats": 290
+    },
+    "Vauban Prime 头部神经光元 蓝图": {
+        "url_name": "vauban_prime_neuroptics_blueprint",
+        "real_cn_name": "Vauban Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Vauban Prime 机体 蓝图": {
+        "url_name": "vauban_prime_chassis_blueprint",
+        "real_cn_name": "Vauban Prime 机体 蓝图",
+        "ducats": 25
+    },
+    "Vauban Prime 系统 蓝图": {
+        "url_name": "vauban_prime_systems_blueprint",
+        "real_cn_name": "Vauban Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Vauban Prime 蓝图": {
+        "url_name": "vauban_prime_blueprint",
+        "real_cn_name": "Vauban Prime 蓝图",
+        "ducats": 65
+    },
+    "Volt Prime 一套": {
+        "url_name": "volt_prime_set",
+        "real_cn_name": "Volt Prime 一套",
+        "ducats": 180
+    },
+    "Volt Prime 头部神经光元 蓝图": {
+        "url_name": "volt_prime_neuroptics_blueprint",
+        "real_cn_name": "Volt Prime 头部神经光元 蓝图",
+        "ducats": 65
+    },
+    "Volt Prime 机体 蓝图": {
+        "url_name": "volt_prime_chassis_blueprint",
+        "real_cn_name": "Volt Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Volt Prime 系统 蓝图": {
+        "url_name": "volt_prime_systems_blueprint",
+        "real_cn_name": "Volt Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Volt Prime 蓝图": {
+        "url_name": "volt_prime_blueprint",
+        "real_cn_name": "Volt Prime 蓝图",
+        "ducats": 25
+    },
+    "Voruna Prime 一套": {
+        "url_name": "voruna_prime_set",
+        "real_cn_name": "Voruna Prime 一套",
+        "ducats": 290
+    },
+    "Voruna Prime 头部神经光元 蓝图": {
+        "url_name": "voruna_prime_neuroptics_blueprint",
+        "real_cn_name": "Voruna Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Voruna Prime 机体 蓝图": {
+        "url_name": "voruna_prime_chassis_blueprint",
+        "real_cn_name": "Voruna Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Voruna Prime 系统 蓝图": {
+        "url_name": "voruna_prime_systems_blueprint",
+        "real_cn_name": "Voruna Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Voruna Prime 蓝图": {
+        "url_name": "voruna_prime_blueprint",
+        "real_cn_name": "Voruna Prime 蓝图",
+        "ducats": 100
+    },
+    "Wisp Prime 一套": {
+        "url_name": "wisp_prime_set",
+        "real_cn_name": "Wisp Prime 一套",
+        "ducats": 225
+    },
+    "Wisp Prime 头部神经光元 蓝图": {
+        "url_name": "wisp_prime_neuroptics_blueprint",
+        "real_cn_name": "Wisp Prime 头部神经光元 蓝图",
+        "ducats": 45
+    },
+    "Wisp Prime 机体 蓝图": {
+        "url_name": "wisp_prime_chassis_blueprint",
+        "real_cn_name": "Wisp Prime 机体 蓝图",
+        "ducats": 65
+    },
+    "Wisp Prime 系统 蓝图": {
+        "url_name": "wisp_prime_systems_blueprint",
+        "real_cn_name": "Wisp Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "Wisp Prime 蓝图": {
+        "url_name": "wisp_prime_blueprint",
+        "real_cn_name": "Wisp Prime 蓝图",
+        "ducats": 100
+    },
+    "Wukong Prime 一套": {
+        "url_name": "wukong_prime_set",
+        "real_cn_name": "Wukong Prime 一套",
+        "ducats": 205
+    },
+    "Wukong Prime 头部神经光元 蓝图": {
+        "url_name": "wukong_prime_neuroptics_blueprint",
+        "real_cn_name": "Wukong Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Wukong Prime 机体 蓝图": {
+        "url_name": "wukong_prime_chassis_blueprint",
+        "real_cn_name": "Wukong Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Wukong Prime 系统 蓝图": {
+        "url_name": "wukong_prime_systems_blueprint",
+        "real_cn_name": "Wukong Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Wukong Prime 蓝图": {
+        "url_name": "wukong_prime_blueprint",
+        "real_cn_name": "Wukong Prime 蓝图",
+        "ducats": 100
+    },
+    "Xaku Prime 一套": {
+        "url_name": "xaku_prime_set",
+        "real_cn_name": "Xaku Prime 一套",
+        "ducats": 205
+    },
+    "Xaku Prime 头部神经光元 蓝图": {
+        "url_name": "xaku_prime_neuroptics_blueprint",
+        "real_cn_name": "Xaku Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Xaku Prime 机体 蓝图": {
+        "url_name": "xaku_prime_chassis_blueprint",
+        "real_cn_name": "Xaku Prime 机体 蓝图",
+        "ducats": 45
+    },
+    "Xaku Prime 系统 蓝图": {
+        "url_name": "xaku_prime_systems_blueprint",
+        "real_cn_name": "Xaku Prime 系统 蓝图",
+        "ducats": 45
+    },
+    "Xaku Prime 蓝图": {
+        "url_name": "xaku_prime_blueprint",
+        "real_cn_name": "Xaku Prime 蓝图",
+        "ducats": 100
+    },
+    "Yareli Prime 一套": {
+        "url_name": "yareli_prime_set",
+        "real_cn_name": "Yareli Prime 一套",
+        "ducats": 260
+    },
+    "Yareli Prime 头部神经光元 蓝图": {
+        "url_name": "yareli_prime_neuroptics_blueprint",
+        "real_cn_name": "Yareli Prime 头部神经光元 蓝图",
+        "ducats": 100
+    },
+    "Yareli Prime 机体 蓝图": {
+        "url_name": "yareli_prime_chassis_blueprint",
+        "real_cn_name": "Yareli Prime 机体 蓝图",
+        "ducats": 15
+    },
+    "Yareli Prime 系统 蓝图": {
+        "url_name": "yareli_prime_systems_blueprint",
+        "real_cn_name": "Yareli Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Yareli Prime 蓝图": {
+        "url_name": "yareli_prime_blueprint",
+        "real_cn_name": "Yareli Prime 蓝图",
+        "ducats": 45
+    },
+    "Zephyr Prime 一套": {
+        "url_name": "zephyr_prime_set",
+        "real_cn_name": "Zephyr Prime 一套",
+        "ducats": 205
+    },
+    "Zephyr Prime 头部神经光元 蓝图": {
+        "url_name": "zephyr_prime_neuroptics_blueprint",
+        "real_cn_name": "Zephyr Prime 头部神经光元 蓝图",
+        "ducats": 15
+    },
+    "Zephyr Prime 机体 蓝图": {
+        "url_name": "zephyr_prime_chassis_blueprint",
+        "real_cn_name": "Zephyr Prime 机体 蓝图",
+        "ducats": 25
+    },
+    "Zephyr Prime 系统 蓝图": {
+        "url_name": "zephyr_prime_systems_blueprint",
+        "real_cn_name": "Zephyr Prime 系统 蓝图",
+        "ducats": 100
+    },
+    "Zephyr Prime 蓝图": {
+        "url_name": "zephyr_prime_blueprint",
+        "real_cn_name": "Zephyr Prime 蓝图",
+        "ducats": 65
+    },
+    "丧钟 Prime 一套": {
+        "url_name": "knell_prime_set",
+        "real_cn_name": "丧钟 Prime 一套",
+        "ducats": 160
+    },
+    "丧钟 Prime 枪机": {
+        "url_name": "knell_prime_receiver",
+        "real_cn_name": "丧钟 Prime 枪机",
+        "ducats": 45
+    },
+    "丧钟 Prime 枪管": {
+        "url_name": "knell_prime_barrel",
+        "real_cn_name": "丧钟 Prime 枪管",
+        "ducats": 100
+    },
+    "丧钟 Prime 蓝图": {
+        "url_name": "knell_prime_blueprint",
+        "real_cn_name": "丧钟 Prime 蓝图",
+        "ducats": 15
+    },
+    "伯斯顿 Prime 一套": {
+        "url_name": "burston_prime_set",
+        "real_cn_name": "伯斯顿 Prime 一套",
+        "ducats": 90
+    },
+    "伯斯顿 Prime 枪托": {
+        "url_name": "burston_prime_stock",
+        "real_cn_name": "伯斯顿 Prime 枪托",
+        "ducats": 15
+    },
+    "伯斯顿 Prime 枪机": {
+        "url_name": "burston_prime_receiver",
+        "real_cn_name": "伯斯顿 Prime 枪机",
+        "ducats": 15
+    },
+    "伯斯顿 Prime 枪管": {
+        "url_name": "burston_prime_barrel",
+        "real_cn_name": "伯斯顿 Prime 枪管",
+        "ducats": 45
+    },
+    "伯斯顿 Prime 蓝图": {
+        "url_name": "burston_prime_blueprint",
+        "real_cn_name": "伯斯顿 Prime 蓝图",
+        "ducats": 15
+    },
+    "佐伦双斧 Prime 一套": {
+        "url_name": "dual_zoren_prime_set",
+        "real_cn_name": "佐伦双斧 Prime 一套",
+        "ducats": 275
+    },
+    "佐伦双斧 Prime 刀刃": {
+        "url_name": "dual_zoren_prime_blade",
+        "real_cn_name": "佐伦双斧 Prime 刀刃",
+        "ducats": 100
+    },
+    "佐伦双斧 Prime 握柄": {
+        "url_name": "dual_zoren_prime_handle",
+        "real_cn_name": "佐伦双斧 Prime 握柄",
+        "ducats": 15
+    },
+    "佐伦双斧 Prime 蓝图": {
+        "url_name": "dual_zoren_prime_blueprint",
+        "real_cn_name": "佐伦双斧 Prime 蓝图",
+        "ducats": 45
+    },
+    "侍刃 Prime 一套": {
+        "url_name": "nikana_prime_set",
+        "real_cn_name": "侍刃 Prime 一套",
+        "ducats": 190
+    },
+    "侍刃 Prime 刀刃": {
+        "url_name": "nikana_prime_blade",
+        "real_cn_name": "侍刃 Prime 刀刃",
+        "ducats": 65
+    },
+    "侍刃 Prime 握柄": {
+        "url_name": "nikana_prime_hilt",
+        "real_cn_name": "侍刃 Prime 握柄",
+        "ducats": 100
+    },
+    "侍刃 Prime 蓝图": {
+        "url_name": "nikana_prime_blueprint",
+        "real_cn_name": "侍刃 Prime 蓝图",
+        "ducats": 25
+    },
+    "关刀 Prime 一套": {
+        "url_name": "guandao_prime_set",
+        "real_cn_name": "关刀 Prime 一套",
+        "ducats": 175
+    },
+    "关刀 Prime 刀刃": {
+        "url_name": "guandao_prime_blade",
+        "real_cn_name": "关刀 Prime 刀刃",
+        "ducats": 15
+    },
+    "关刀 Prime 握柄": {
+        "url_name": "guandao_prime_handle",
+        "real_cn_name": "关刀 Prime 握柄",
+        "ducats": 100
+    },
+    "关刀 Prime 蓝图": {
+        "url_name": "guandao_prime_blueprint",
+        "real_cn_name": "关刀 Prime 蓝图",
+        "ducats": 45
+    },
+    "军扇 Prime 一套": {
+        "url_name": "gunsen_prime_set",
+        "real_cn_name": "军扇 Prime 一套",
+        "ducats": 305
+    },
+    "军扇 Prime 刀刃": {
+        "url_name": "gunsen_prime_blade",
+        "real_cn_name": "军扇 Prime 刀刃",
+        "ducats": 100
+    },
+    "军扇 Prime 握柄": {
+        "url_name": "gunsen_prime_handle",
+        "real_cn_name": "军扇 Prime 握柄",
+        "ducats": 45
+    },
+    "军扇 Prime 蓝图": {
+        "url_name": "gunsen_prime_blueprint",
+        "real_cn_name": "军扇 Prime 蓝图",
+        "ducats": 15
+    },
+    "凯旋之爪 Prime 一套": {
+        "url_name": "venka_prime_set",
+        "real_cn_name": "凯旋之爪 Prime 一套",
+        "ducats": 275
+    },
+    "凯旋之爪 Prime 手套": {
+        "url_name": "venka_prime_gauntlet",
+        "real_cn_name": "凯旋之爪 Prime 手套",
+        "ducats": 100
+    },
+    "凯旋之爪 Prime 爪刃": {
+        "url_name": "venka_prime_blades",
+        "real_cn_name": "凯旋之爪 Prime 爪刃",
+        "ducats": 15
+    },
+    "凯旋之爪 Prime 蓝图": {
+        "url_name": "venka_prime_blueprint",
+        "real_cn_name": "凯旋之爪 Prime 蓝图",
+        "ducats": 45
+    },
+    "凯洛斯特 Prime 一套": {
+        "url_name": "karyst_prime_set",
+        "real_cn_name": "凯洛斯特 Prime 一套",
+        "ducats": 160
+    },
+    "凯洛斯特 Prime 刀刃": {
+        "url_name": "karyst_prime_blade",
+        "real_cn_name": "凯洛斯特 Prime 刀刃",
+        "ducats": 100
+    },
+    "凯洛斯特 Prime 握柄": {
+        "url_name": "karyst_prime_handle",
+        "real_cn_name": "凯洛斯特 Prime 握柄",
+        "ducats": 45
+    },
+    "凯洛斯特 Prime 蓝图": {
+        "url_name": "karyst_prime_blueprint",
+        "real_cn_name": "凯洛斯特 Prime 蓝图",
+        "ducats": 15
+    },
+    "凯瑞斯双刀 Prime 一套": {
+        "url_name": "dual_keres_prime_set",
+        "real_cn_name": "凯瑞斯双刀 Prime 一套",
+        "ducats": 220
+    },
+    "凯瑞斯双刀 Prime 刀刃": {
+        "url_name": "dual_keres_prime_blade",
+        "real_cn_name": "凯瑞斯双刀 Prime 刀刃",
+        "ducats": 15
+    },
+    "凯瑞斯双刀 Prime 握柄": {
+        "url_name": "dual_keres_prime_handle",
+        "real_cn_name": "凯瑞斯双刀 Prime 握柄",
+        "ducats": 45
+    },
+    "凯瑞斯双刀 Prime 蓝图": {
+        "url_name": "dual_keres_prime_blueprint",
+        "real_cn_name": "凯瑞斯双刀 Prime 蓝图",
+        "ducats": 100
+    },
+    "分裂斩斧 Prime 一套": {
+        "url_name": "scindo_prime_set",
+        "real_cn_name": "分裂斩斧 Prime 一套",
+        "ducats": 170
+    },
+    "分裂斩斧 Prime 刀刃": {
+        "url_name": "scindo_prime_blade",
+        "real_cn_name": "分裂斩斧 Prime 刀刃",
+        "ducats": 100
+    },
+    "分裂斩斧 Prime 握柄": {
+        "url_name": "scindo_prime_handle",
+        "real_cn_name": "分裂斩斧 Prime 握柄",
+        "ducats": 25
+    },
+    "分裂斩斧 Prime 蓝图": {
+        "url_name": "scindo_prime_blueprint",
+        "real_cn_name": "分裂斩斧 Prime 蓝图",
+        "ducats": 45
+    },
+    "创伤 Prime 一套": {
+        "url_name": "volnus_prime_set",
+        "real_cn_name": "创伤 Prime 一套",
+        "ducats": 160
+    },
+    "创伤 Prime 握柄": {
+        "url_name": "volnus_prime_handle",
+        "real_cn_name": "创伤 Prime 握柄",
+        "ducats": 100
+    },
+    "创伤 Prime 蓝图": {
+        "url_name": "volnus_prime_blueprint",
+        "real_cn_name": "创伤 Prime 蓝图",
+        "ducats": 15
+    },
+    "创伤 Prime 锤头": {
+        "url_name": "volnus_prime_head",
+        "real_cn_name": "创伤 Prime 锤头",
+        "ducats": 45
+    },
+    "卡帕压力枪 Prime 一套": {
+        "url_name": "kompressa_prime_set",
+        "real_cn_name": "卡帕压力枪 Prime 一套",
+        "ducats": 160
+    },
+    "卡帕压力枪 Prime 枪机": {
+        "url_name": "kompressa_prime_reciever",
+        "real_cn_name": "卡帕压力枪 Prime 枪机",
+        "ducats": 45
+    },
+    "卡帕压力枪 Prime 枪管": {
+        "url_name": "kompressa_prime_barrel",
+        "real_cn_name": "卡帕压力枪 Prime 枪管",
+        "ducats": 100
+    },
+    "卡帕压力枪 Prime 蓝图": {
+        "url_name": "kompressa_prime_blueprint",
+        "real_cn_name": "卡帕压力枪 Prime 蓝图",
+        "ducats": 15
+    },
+    "双短柄战镰 Prime 一套": {
+        "url_name": "dual_kamas_prime_set",
+        "real_cn_name": "双短柄战镰 Prime 一套",
+        "ducats": 305
+    },
+    "双短柄战镰 Prime 刀刃": {
+        "url_name": "dual_kamas_prime_blade",
+        "real_cn_name": "双短柄战镰 Prime 刀刃",
+        "ducats": 100
+    },
+    "双短柄战镰 Prime 握柄": {
+        "url_name": "dual_kamas_prime_handle",
+        "real_cn_name": "双短柄战镰 Prime 握柄",
+        "ducats": 45
+    },
+    "双短柄战镰 Prime 蓝图": {
+        "url_name": "dual_kamas_prime_blueprint",
+        "real_cn_name": "双短柄战镰 Prime 蓝图",
+        "ducats": 15
+    },
+    "双簧管 Prime 一套": {
+        "url_name": "tenora_prime_set",
+        "real_cn_name": "双簧管 Prime 一套",
+        "ducats": 260
+    },
+    "双簧管 Prime 枪托": {
+        "url_name": "tenora_prime_stock",
+        "real_cn_name": "双簧管 Prime 枪托",
+        "ducats": 45
+    },
+    "双簧管 Prime 枪机": {
+        "url_name": "tenora_prime_receiver",
+        "real_cn_name": "双簧管 Prime 枪机",
+        "ducats": 100
+    },
+    "双簧管 Prime 枪管": {
+        "url_name": "tenora_prime_barrel",
+        "real_cn_name": "双簧管 Prime 枪管",
+        "ducats": 100
+    },
+    "双簧管 Prime 蓝图": {
+        "url_name": "tenora_prime_blueprint",
+        "real_cn_name": "双簧管 Prime 蓝图",
+        "ducats": 15
+    },
+    "史提托双枪 Prime 一套": {
+        "url_name": "akstiletto_prime_set",
+        "real_cn_name": "史提托双枪 Prime 一套",
+        "ducats": 285
+    },
+    "史提托双枪 Prime 枪机": {
+        "url_name": "akstiletto_prime_receiver",
+        "real_cn_name": "史提托双枪 Prime 枪机",
+        "ducats": 45
+    },
+    "史提托双枪 Prime 枪管": {
+        "url_name": "akstiletto_prime_barrel",
+        "real_cn_name": "史提托双枪 Prime 枪管",
+        "ducats": 25
+    },
+    "史提托双枪 Prime 蓝图": {
+        "url_name": "akstiletto_prime_blueprint",
+        "real_cn_name": "史提托双枪 Prime 蓝图",
+        "ducats": 100
+    },
+    "史提托双枪 Prime 连接器": {
+        "url_name": "akstiletto_prime_link",
+        "real_cn_name": "史提托双枪 Prime 连接器",
+        "ducats": 45
+    },
+    "咀嚼金杖 Prime 一套": {
+        "url_name": "masseter_prime_set",
+        "real_cn_name": "咀嚼金杖 Prime 一套",
+        "ducats": 160
+    },
+    "咀嚼金杖 Prime 刀刃": {
+        "url_name": "masseter_prime_blade",
+        "real_cn_name": "咀嚼金杖 Prime 刀刃",
+        "ducats": 100
+    },
+    "咀嚼金杖 Prime 握柄": {
+        "url_name": "masseter_prime_handle",
+        "real_cn_name": "咀嚼金杖 Prime 握柄",
+        "ducats": 15
+    },
+    "咀嚼金杖 Prime 蓝图": {
+        "url_name": "masseter_prime_blueprint",
+        "real_cn_name": "咀嚼金杖 Prime 蓝图",
+        "ducats": 45
+    },
+    "喀婆萨 Prime 库狛项圈 一套": {
+        "url_name": "kavasa_prime_kubrow_collar_set",
+        "real_cn_name": "喀婆萨 Prime 库狛项圈 一套",
+        "ducats": 155
+    },
+    "喀婆萨 Prime 库狛项圈 蓝图": {
+        "url_name": "kavasa_prime_kubrow_collar_blueprint",
+        "real_cn_name": "喀婆萨 Prime 库狛项圈 蓝图",
+        "ducats": 45
+    },
+    "喀婆萨 Prime 项圈带": {
+        "url_name": "kavasa_prime_band",
+        "real_cn_name": "喀婆萨 Prime 项圈带",
+        "ducats": 45
+    },
+    "喀婆萨 Prime 项圈扣": {
+        "url_name": "kavasa_prime_buckle",
+        "real_cn_name": "喀婆萨 Prime 项圈扣",
+        "ducats": 65
+    },
+    "噬蛇弩 Prime 一套": {
+        "url_name": "nagantaka_prime_set",
+        "real_cn_name": "噬蛇弩 Prime 一套",
+        "ducats": 205
+    },
+    "噬蛇弩 Prime 枪托": {
+        "url_name": "nagantaka_prime_stock",
+        "real_cn_name": "噬蛇弩 Prime 枪托",
+        "ducats": 45
+    },
+    "噬蛇弩 Prime 枪机": {
+        "url_name": "nagantaka_prime_receiver",
+        "real_cn_name": "噬蛇弩 Prime 枪机",
+        "ducats": 45
+    },
+    "噬蛇弩 Prime 枪管": {
+        "url_name": "nagantaka_prime_barrel",
+        "real_cn_name": "噬蛇弩 Prime 枪管",
+        "ducats": 15
+    },
+    "噬蛇弩 Prime 蓝图": {
+        "url_name": "nagantaka_prime_blueprint",
+        "real_cn_name": "噬蛇弩 Prime 蓝图",
+        "ducats": 100
+    },
+    "塞多 Prime 一套": {
+        "url_name": "cedo_prime_set",
+        "real_cn_name": "塞多 Prime 一套",
+        "ducats": 205
+    },
+    "塞多 Prime 枪托": {
+        "url_name": "cedo_prime_stock",
+        "real_cn_name": "塞多 Prime 枪托",
+        "ducats": 15
+    },
+    "塞多 Prime 枪机": {
+        "url_name": "cedo_prime_receiver",
+        "real_cn_name": "塞多 Prime 枪机",
+        "ducats": 45
+    },
+    "塞多 Prime 枪管": {
+        "url_name": "cedo_prime_barrel",
+        "real_cn_name": "塞多 Prime 枪管",
+        "ducats": 45
+    },
+    "塞多 Prime 蓝图": {
+        "url_name": "cedo_prime_blueprint",
+        "real_cn_name": "塞多 Prime 蓝图",
+        "ducats": 100
+    },
+    "大久和弓 Prime 一套": {
+        "url_name": "daikyu_prime_set",
+        "real_cn_name": "大久和弓 Prime 一套",
+        "ducats": 220
+    },
+    "大久和弓 Prime 上弓臂": {
+        "url_name": "daikyu_prime_upper_limb",
+        "real_cn_name": "大久和弓 Prime 上弓臂",
+        "ducats": 45
+    },
+    "大久和弓 Prime 下弓臂": {
+        "url_name": "daikyu_prime_lower_limb",
+        "real_cn_name": "大久和弓 Prime 下弓臂",
+        "ducats": 45
+    },
+    "大久和弓 Prime 弓弦": {
+        "url_name": "daikyu_prime_string",
+        "real_cn_name": "大久和弓 Prime 弓弦",
+        "ducats": 15
+    },
+    "大久和弓 Prime 弓身": {
+        "url_name": "daikyu_prime_grip",
+        "real_cn_name": "大久和弓 Prime 弓身",
+        "ducats": 100
+    },
+    "大久和弓 Prime 蓝图": {
+        "url_name": "daikyu_prime_blueprint",
+        "real_cn_name": "大久和弓 Prime 蓝图",
+        "ducats": 15
+    },
+    "威震武扇 Prime 一套": {
+        "url_name": "quassus_prime_set",
+        "real_cn_name": "威震武扇 Prime 一套",
+        "ducats": 275
+    },
+    "威震武扇 Prime 刀刃": {
+        "url_name": "quassus_prime_blade",
+        "real_cn_name": "威震武扇 Prime 刀刃",
+        "ducats": 100
+    },
+    "威震武扇 Prime 握柄": {
+        "url_name": "quassus_prime_handle",
+        "real_cn_name": "威震武扇 Prime 握柄",
+        "ducats": 15
+    },
+    "威震武扇 Prime 蓝图": {
+        "url_name": "quassus_prime_blueprint",
+        "real_cn_name": "威震武扇 Prime 蓝图",
+        "ducats": 45
+    },
+    "守望者 Prime 一套": {
+        "url_name": "vectis_prime_set",
+        "real_cn_name": "守望者 Prime 一套",
+        "ducats": 225
+    },
+    "守望者 Prime 枪托": {
+        "url_name": "vectis_prime_stock",
+        "real_cn_name": "守望者 Prime 枪托",
+        "ducats": 65
+    },
+    "守望者 Prime 枪机": {
+        "url_name": "vectis_prime_receiver",
+        "real_cn_name": "守望者 Prime 枪机",
+        "ducats": 100
+    },
+    "守望者 Prime 枪管": {
+        "url_name": "vectis_prime_barrel",
+        "real_cn_name": "守望者 Prime 枪管",
+        "ducats": 15
+    },
+    "守望者 Prime 蓝图": {
+        "url_name": "vectis_prime_blueprint",
+        "real_cn_name": "守望者 Prime 蓝图",
+        "ducats": 45
+    },
+    "布莱顿 Prime 一套": {
+        "url_name": "braton_prime_set",
+        "real_cn_name": "布莱顿 Prime 一套",
+        "ducats": 110
+    },
+    "布莱顿 Prime 枪托": {
+        "url_name": "braton_prime_stock",
+        "real_cn_name": "布莱顿 Prime 枪托",
+        "ducats": 25
+    },
+    "布莱顿 Prime 枪机": {
+        "url_name": "braton_prime_receiver",
+        "real_cn_name": "布莱顿 Prime 枪机",
+        "ducats": 45
+    },
+    "布莱顿 Prime 枪管": {
+        "url_name": "braton_prime_barrel",
+        "real_cn_name": "布莱顿 Prime 枪管",
+        "ducats": 15
+    },
+    "布莱顿 Prime 蓝图": {
+        "url_name": "braton_prime_blueprint",
+        "real_cn_name": "布莱顿 Prime 蓝图",
+        "ducats": 25
+    },
+    "布里斯提卡 Prime 一套": {
+        "url_name": "ballistica_prime_set",
+        "real_cn_name": "布里斯提卡 Prime 一套",
+        "ducats": 250
+    },
+    "布里斯提卡 Prime 上弓臂": {
+        "url_name": "ballistica_prime_upper_limb",
+        "real_cn_name": "布里斯提卡 Prime 上弓臂",
+        "ducats": 45
+    },
+    "布里斯提卡 Prime 下弓臂": {
+        "url_name": "ballistica_prime_lower_limb",
+        "real_cn_name": "布里斯提卡 Prime 下弓臂",
+        "ducats": 15
+    },
+    "布里斯提卡 Prime 弓弦": {
+        "url_name": "ballistica_prime_string",
+        "real_cn_name": "布里斯提卡 Prime 弓弦",
+        "ducats": 45
+    },
+    "布里斯提卡 Prime 枪机": {
+        "url_name": "ballistica_prime_receiver",
+        "real_cn_name": "布里斯提卡 Prime 枪机",
+        "ducats": 45
+    },
+    "布里斯提卡 Prime 蓝图": {
+        "url_name": "ballistica_prime_blueprint",
+        "real_cn_name": "布里斯提卡 Prime 蓝图",
+        "ducats": 100
+    },
+    "帕里斯 Prime 一套": {
+        "url_name": "paris_prime_set",
+        "real_cn_name": "帕里斯 Prime 一套",
+        "ducats": 115
+    },
+    "帕里斯 Prime 上弓臂": {
+        "url_name": "paris_prime_upper_limb",
+        "real_cn_name": "帕里斯 Prime 上弓臂",
+        "ducats": 25
+    },
+    "帕里斯 Prime 下弓臂": {
+        "url_name": "paris_prime_lower_limb",
+        "real_cn_name": "帕里斯 Prime 下弓臂",
+        "ducats": 15
+    },
+    "帕里斯 Prime 弓弦": {
+        "url_name": "paris_prime_string",
+        "real_cn_name": "帕里斯 Prime 弓弦",
+        "ducats": 15
+    },
+    "帕里斯 Prime 弓身": {
+        "url_name": "paris_prime_grip",
+        "real_cn_name": "帕里斯 Prime 弓身",
+        "ducats": 45
+    },
+    "帕里斯 Prime 蓝图": {
+        "url_name": "paris_prime_blueprint",
+        "real_cn_name": "帕里斯 Prime 蓝图",
+        "ducats": 15
+    },
+    "席尔火枪 Prime 一套": {
+        "url_name": "zylok_prime_set",
+        "real_cn_name": "席尔火枪 Prime 一套",
+        "ducats": 160
+    },
+    "席尔火枪 Prime 枪机": {
+        "url_name": "zylok_prime_receiver",
+        "real_cn_name": "席尔火枪 Prime 枪机",
+        "ducats": 45
+    },
+    "席尔火枪 Prime 枪管": {
+        "url_name": "zylok_prime_barrel",
+        "real_cn_name": "席尔火枪 Prime 枪管",
+        "ducats": 15
+    },
+    "席尔火枪 Prime 蓝图": {
+        "url_name": "zylok_prime_blueprint",
+        "real_cn_name": "席尔火枪 Prime 蓝图",
+        "ducats": 100
+    },
+    "席瓦 & 神盾 Prime 一套": {
+        "url_name": "silva_and_aegis_prime_set",
+        "real_cn_name": "席瓦 & 神盾 Prime 一套",
+        "ducats": 205
+    },
+    "席瓦 & 神盾 Prime 刀刃": {
+        "url_name": "silva_and_aegis_prime_blade",
+        "real_cn_name": "席瓦 & 神盾 Prime 刀刃",
+        "ducats": 45
+    },
+    "席瓦 & 神盾 Prime 护手": {
+        "url_name": "silva_and_aegis_prime_guard",
+        "real_cn_name": "席瓦 & 神盾 Prime 护手",
+        "ducats": 100
+    },
+    "席瓦 & 神盾 Prime 握柄": {
+        "url_name": "silva_and_aegis_prime_hilt",
+        "real_cn_name": "席瓦 & 神盾 Prime 握柄",
+        "ducats": 15
+    },
+    "席瓦 & 神盾 Prime 蓝图": {
+        "url_name": "silva_and_aegis_prime_blueprint",
+        "real_cn_name": "席瓦 & 神盾 Prime 蓝图",
+        "ducats": 45
+    },
+    "席芭莉丝 Prime 一套": {
+        "url_name": "sybaris_prime_set",
+        "real_cn_name": "席芭莉丝 Prime 一套",
+        "ducats": 175
+    },
+    "席芭莉丝 Prime 枪托": {
+        "url_name": "sybaris_prime_stock",
+        "real_cn_name": "席芭莉丝 Prime 枪托",
+        "ducats": 15
+    },
+    "席芭莉丝 Prime 枪机": {
+        "url_name": "sybaris_prime_receiver",
+        "real_cn_name": "席芭莉丝 Prime 枪机",
+        "ducats": 45
+    },
+    "席芭莉丝 Prime 枪管": {
+        "url_name": "sybaris_prime_barrel",
+        "real_cn_name": "席芭莉丝 Prime 枪管",
+        "ducats": 100
+    },
+    "席芭莉丝 Prime 蓝图": {
+        "url_name": "sybaris_prime_blueprint",
+        "real_cn_name": "席芭莉丝 Prime 蓝图",
+        "ducats": 15
+    },
+    "幻离子 Prime 一套": {
+        "url_name": "phantasma_prime_set",
+        "real_cn_name": "幻离子 Prime 一套",
+        "ducats": 225
+    },
+    "幻离子 Prime 枪托": {
+        "url_name": "phantasma_prime_stock",
+        "real_cn_name": "幻离子 Prime 枪托",
+        "ducats": 65
+    },
+    "幻离子 Prime 枪机": {
+        "url_name": "phantasma_prime_receiver",
+        "real_cn_name": "幻离子 Prime 枪机",
+        "ducats": 15
+    },
+    "幻离子 Prime 枪管": {
+        "url_name": "phantasma_prime_barrel",
+        "real_cn_name": "幻离子 Prime 枪管",
+        "ducats": 100
+    },
+    "幻离子 Prime 蓝图": {
+        "url_name": "phantasma_prime_blueprint",
+        "real_cn_name": "幻离子 Prime 蓝图",
+        "ducats": 45
+    },
+    "悦音 Prime 一套": {
+        "url_name": "euphona_prime_set",
+        "real_cn_name": "悦音 Prime 一套",
+        "ducats": 160
+    },
+    "悦音 Prime 枪机": {
+        "url_name": "euphona_prime_receiver",
+        "real_cn_name": "悦音 Prime 枪机",
+        "ducats": 100
+    },
+    "悦音 Prime 枪管": {
+        "url_name": "euphona_prime_barrel",
+        "real_cn_name": "悦音 Prime 枪管",
+        "ducats": 45
+    },
+    "悦音 Prime 蓝图": {
+        "url_name": "euphona_prime_blueprint",
+        "real_cn_name": "悦音 Prime 蓝图",
+        "ducats": 15
+    },
+    "战刃 Prime 一套": {
+        "url_name": "glaive_prime_set",
+        "real_cn_name": "战刃 Prime 一套",
+        "ducats": 235
+    },
+    "战刃 Prime 刀刃": {
+        "url_name": "glaive_prime_blade",
+        "real_cn_name": "战刃 Prime 刀刃",
+        "ducats": 45
+    },
+    "战刃 Prime 圆盘": {
+        "url_name": "glaive_prime_disc",
+        "real_cn_name": "战刃 Prime 圆盘",
+        "ducats": 45
+    },
+    "战刃 Prime 蓝图": {
+        "url_name": "glaive_prime_blueprint",
+        "real_cn_name": "战刃 Prime 蓝图",
+        "ducats": 100
+    },
+    "手鼓 Prime 一套": {
+        "url_name": "pandero_prime_set",
+        "real_cn_name": "手鼓 Prime 一套",
+        "ducats": 160
+    },
+    "手鼓 Prime 枪机": {
+        "url_name": "pandero_prime_receiver",
+        "real_cn_name": "手鼓 Prime 枪机",
+        "ducats": 100
+    },
+    "手鼓 Prime 枪管": {
+        "url_name": "pandero_prime_barrel",
+        "real_cn_name": "手鼓 Prime 枪管",
+        "ducats": 45
+    },
+    "手鼓 Prime 蓝图": {
+        "url_name": "pandero_prime_blueprint",
+        "real_cn_name": "手鼓 Prime 蓝图",
+        "ducats": 15
+    },
+    "技巧之剑 Prime 一套": {
+        "url_name": "destreza_prime_set",
+        "real_cn_name": "技巧之剑 Prime 一套",
+        "ducats": 160
+    },
+    "技巧之剑 Prime 刀刃": {
+        "url_name": "destreza_prime_blade",
+        "real_cn_name": "技巧之剑 Prime 刀刃",
+        "ducats": 100
+    },
+    "技巧之剑 Prime 握柄": {
+        "url_name": "destreza_prime_handle",
+        "real_cn_name": "技巧之剑 Prime 握柄",
+        "ducats": 15
+    },
+    "技巧之剑 Prime 蓝图": {
+        "url_name": "destreza_prime_blueprint",
+        "real_cn_name": "技巧之剑 Prime 蓝图",
+        "ducats": 45
+    },
+    "拉特昂 Prime 一套": {
+        "url_name": "latron_prime_set",
+        "real_cn_name": "拉特昂 Prime 一套",
+        "ducats": 60
+    },
+    "拉特昂 Prime 枪托": {
+        "url_name": "latron_prime_stock",
+        "real_cn_name": "拉特昂 Prime 枪托",
+        "ducats": 15
+    },
+    "拉特昂 Prime 枪机": {
+        "url_name": "latron_prime_receiver",
+        "real_cn_name": "拉特昂 Prime 枪机",
+        "ducats": 15
+    },
+    "拉特昂 Prime 枪管": {
+        "url_name": "latron_prime_barrel",
+        "real_cn_name": "拉特昂 Prime 枪管",
+        "ducats": 15
+    },
+    "拉特昂 Prime 蓝图": {
+        "url_name": "latron_prime_blueprint",
+        "real_cn_name": "拉特昂 Prime 蓝图",
+        "ducats": 15
+    },
+    "提佩多 Prime 一套": {
+        "url_name": "tipedo_prime_set",
+        "real_cn_name": "提佩多 Prime 一套",
+        "ducats": 205
+    },
+    "提佩多 Prime 握柄": {
+        "url_name": "tipedo_prime_handle",
+        "real_cn_name": "提佩多 Prime 握柄",
+        "ducats": 100
+    },
+    "提佩多 Prime 蓝图": {
+        "url_name": "tipedo_prime_blueprint",
+        "real_cn_name": "提佩多 Prime 蓝图",
+        "ducats": 15
+    },
+    "提佩多 Prime 饰物": {
+        "url_name": "tipedo_prime_ornament",
+        "real_cn_name": "提佩多 Prime 饰物",
+        "ducats": 45
+    },
+    "搬运者 Prime 一套": {
+        "url_name": "carrier_prime_set",
+        "real_cn_name": "搬运者 Prime 一套",
+        "ducats": 110
+    },
+    "搬运者 Prime 外壳": {
+        "url_name": "carrier_prime_carapace",
+        "real_cn_name": "搬运者 Prime 外壳",
+        "ducats": 15
+    },
+    "搬运者 Prime 头部": {
+        "url_name": "carrier_prime_cerebrum",
+        "real_cn_name": "搬运者 Prime 头部",
+        "ducats": 65
+    },
+    "搬运者 Prime 系统": {
+        "url_name": "carrier_prime_systems",
+        "real_cn_name": "搬运者 Prime 系统",
+        "ducats": 15
+    },
+    "搬运者 Prime 蓝图": {
+        "url_name": "carrier_prime_blueprint",
+        "real_cn_name": "搬运者 Prime 蓝图",
+        "ducats": 15
+    },
+    "收割者 Prime 一套": {
+        "url_name": "reaper_prime_set",
+        "real_cn_name": "收割者 Prime 一套",
+        "ducats": 75
+    },
+    "收割者 Prime 刀刃": {
+        "url_name": "reaper_prime_blade",
+        "real_cn_name": "收割者 Prime 刀刃",
+        "ducats": 45
+    },
+    "收割者 Prime 握柄": {
+        "url_name": "reaper_prime_handle",
+        "real_cn_name": "收割者 Prime 握柄",
+        "ducats": 15
+    },
+    "收割者 Prime 蓝图": {
+        "url_name": "reaper_prime_blueprint",
+        "real_cn_name": "收割者 Prime 蓝图",
+        "ducats": 15
+    },
+    "救赎者 Prime 一套": {
+        "url_name": "redeemer_prime_set",
+        "real_cn_name": "救赎者 Prime 一套",
+        "ducats": 160
+    },
+    "救赎者 Prime 刀刃": {
+        "url_name": "redeemer_prime_blade",
+        "real_cn_name": "救赎者 Prime 刀刃",
+        "ducats": 15
+    },
+    "救赎者 Prime 握柄": {
+        "url_name": "redeemer_prime_handle",
+        "real_cn_name": "救赎者 Prime 握柄",
+        "ducats": 100
+    },
+    "救赎者 Prime 蓝图": {
+        "url_name": "redeemer_prime_blueprint",
+        "real_cn_name": "救赎者 Prime 蓝图",
+        "ducats": 45
+    },
+    "斯特拉迪瓦 Prime 一套": {
+        "url_name": "stradavar_prime_set",
+        "real_cn_name": "斯特拉迪瓦 Prime 一套",
+        "ducats": 175
+    },
+    "斯特拉迪瓦 Prime 枪托": {
+        "url_name": "stradavar_prime_stock",
+        "real_cn_name": "斯特拉迪瓦 Prime 枪托",
+        "ducats": 15
+    },
+    "斯特拉迪瓦 Prime 枪机": {
+        "url_name": "stradavar_prime_receiver",
+        "real_cn_name": "斯特拉迪瓦 Prime 枪机",
+        "ducats": 15
+    },
+    "斯特拉迪瓦 Prime 枪管": {
+        "url_name": "stradavar_prime_barrel",
+        "real_cn_name": "斯特拉迪瓦 Prime 枪管",
+        "ducats": 45
+    },
+    "斯特拉迪瓦 Prime 蓝图": {
+        "url_name": "stradavar_prime_blueprint",
+        "real_cn_name": "斯特拉迪瓦 Prime 蓝图",
+        "ducats": 100
+    },
+    "斯特朗 Prime 一套": {
+        "url_name": "strun_prime_set",
+        "real_cn_name": "斯特朗 Prime 一套",
+        "ducats": 205
+    },
+    "斯特朗 Prime 枪托": {
+        "url_name": "strun_prime_stock",
+        "real_cn_name": "斯特朗 Prime 枪托",
+        "ducats": 45
+    },
+    "斯特朗 Prime 枪机": {
+        "url_name": "strun_prime_receiver",
+        "real_cn_name": "斯特朗 Prime 枪机",
+        "ducats": 15
+    },
+    "斯特朗 Prime 枪管": {
+        "url_name": "strun_prime_barrel",
+        "real_cn_name": "斯特朗 Prime 枪管",
+        "ducats": 45
+    },
+    "斯特朗 Prime 蓝图": {
+        "url_name": "strun_prime_blueprint",
+        "real_cn_name": "斯特朗 Prime 蓝图",
+        "ducats": 100
+    },
+    "旋刃飞刀 Prime 一套": {
+        "url_name": "spira_prime_set",
+        "real_cn_name": "旋刃飞刀 Prime 一套",
+        "ducats": 345
+    },
+    "旋刃飞刀 Prime 刀刃": {
+        "url_name": "spira_prime_blade",
+        "real_cn_name": "旋刃飞刀 Prime 刀刃",
+        "ducats": 65
+    },
+    "旋刃飞刀 Prime 蓝图": {
+        "url_name": "spira_prime_blueprint",
+        "real_cn_name": "旋刃飞刀 Prime 蓝图",
+        "ducats": 15
+    },
+    "旋刃飞刀 Prime 镖袋": {
+        "url_name": "spira_prime_pouch",
+        "real_cn_name": "旋刃飞刀 Prime 镖袋",
+        "ducats": 100
+    },
+    "暗杀者 Prime 一套": {
+        "url_name": "sicarus_prime_set",
+        "real_cn_name": "暗杀者 Prime 一套",
+        "ducats": 130
+    },
+    "暗杀者 Prime 枪机": {
+        "url_name": "sicarus_prime_receiver",
+        "real_cn_name": "暗杀者 Prime 枪机",
+        "ducats": 100
+    },
+    "暗杀者 Prime 枪管": {
+        "url_name": "sicarus_prime_barrel",
+        "real_cn_name": "暗杀者 Prime 枪管",
+        "ducats": 15
+    },
+    "暗杀者 Prime 蓝图": {
+        "url_name": "sicarus_prime_blueprint",
+        "real_cn_name": "暗杀者 Prime 蓝图",
+        "ducats": 15
+    },
+    "月神 Prime 一套": {
+        "url_name": "soma_prime_set",
+        "real_cn_name": "月神 Prime 一套",
+        "ducats": 175
+    },
+    "月神 Prime 枪托": {
+        "url_name": "soma_prime_stock",
+        "real_cn_name": "月神 Prime 枪托",
+        "ducats": 100
+    },
+    "月神 Prime 枪机": {
+        "url_name": "soma_prime_receiver",
+        "real_cn_name": "月神 Prime 枪机",
+        "ducats": 45
+    },
+    "月神 Prime 枪管": {
+        "url_name": "soma_prime_barrel",
+        "real_cn_name": "月神 Prime 枪管",
+        "ducats": 15
+    },
+    "月神 Prime 蓝图": {
+        "url_name": "soma_prime_blueprint",
+        "real_cn_name": "月神 Prime 蓝图",
+        "ducats": 15
+    },
+    "月面狂风 Prime 一套": {
+        "url_name": "perigale_prime_set",
+        "real_cn_name": "月面狂风 Prime 一套",
+        "ducats": 175
+    },
+    "月面狂风 Prime 枪托": {
+        "url_name": "perigale_prime_stock",
+        "real_cn_name": "月面狂风 Prime 枪托",
+        "ducats": 15
+    },
+    "月面狂风 Prime 枪机": {
+        "url_name": "perigale_prime_receiver",
+        "real_cn_name": "月面狂风 Prime 枪机",
+        "ducats": 45
+    },
+    "月面狂风 Prime 枪管": {
+        "url_name": "perigale_prime_barrel",
+        "real_cn_name": "月面狂风 Prime 枪管",
+        "ducats": 100
+    },
+    "月面狂风 Prime 蓝图": {
+        "url_name": "perigale_prime_blueprint",
+        "real_cn_name": "月面狂风 Prime 蓝图",
+        "ducats": 15
+    },
+    "格拉姆 Prime 一套": {
+        "url_name": "gram_prime_set",
+        "real_cn_name": "格拉姆 Prime 一套",
+        "ducats": 160
+    },
+    "格拉姆 Prime 刀刃": {
+        "url_name": "gram_prime_blade",
+        "real_cn_name": "格拉姆 Prime 刀刃",
+        "ducats": 15
+    },
+    "格拉姆 Prime 握柄": {
+        "url_name": "gram_prime_handle",
+        "real_cn_name": "格拉姆 Prime 握柄",
+        "ducats": 100
+    },
+    "格拉姆 Prime 蓝图": {
+        "url_name": "gram_prime_blueprint",
+        "real_cn_name": "格拉姆 Prime 蓝图",
+        "ducats": 45
+    },
+    "欧特鲁斯 Prime 一套": {
+        "url_name": "orthos_prime_set",
+        "real_cn_name": "欧特鲁斯 Prime 一套",
+        "ducats": 150
+    },
+    "欧特鲁斯 Prime 刀刃": {
+        "url_name": "orthos_prime_blade",
+        "real_cn_name": "欧特鲁斯 Prime 刀刃",
+        "ducats": 45
+    },
+    "欧特鲁斯 Prime 握柄": {
+        "url_name": "orthos_prime_handle",
+        "real_cn_name": "欧特鲁斯 Prime 握柄",
+        "ducats": 15
+    },
+    "欧特鲁斯 Prime 蓝图": {
+        "url_name": "orthos_prime_blueprint",
+        "real_cn_name": "欧特鲁斯 Prime 蓝图",
+        "ducats": 45
+    },
+    "死亡魔方 Prime 一套": {
+        "url_name": "dethcube_prime_set",
+        "real_cn_name": "死亡魔方 Prime 一套",
+        "ducats": 225
+    },
+    "死亡魔方 Prime 外壳": {
+        "url_name": "dethcube_prime_carapace",
+        "real_cn_name": "死亡魔方 Prime 外壳",
+        "ducats": 45
+    },
+    "死亡魔方 Prime 头部": {
+        "url_name": "dethcube_prime_cerebrum",
+        "real_cn_name": "死亡魔方 Prime 头部",
+        "ducats": 65
+    },
+    "死亡魔方 Prime 系统": {
+        "url_name": "dethcube_prime_systems",
+        "real_cn_name": "死亡魔方 Prime 系统",
+        "ducats": 15
+    },
+    "死亡魔方 Prime 蓝图": {
+        "url_name": "dethcube_prime_blueprint",
+        "real_cn_name": "死亡魔方 Prime 蓝图",
+        "ducats": 100
+    },
+    "毒芽 Prime 一套": {
+        "url_name": "zakti_prime_set",
+        "real_cn_name": "毒芽 Prime 一套",
+        "ducats": 160
+    },
+    "毒芽 Prime 枪机": {
+        "url_name": "zakti_prime_receiver",
+        "real_cn_name": "毒芽 Prime 枪机",
+        "ducats": 15
+    },
+    "毒芽 Prime 枪管": {
+        "url_name": "zakti_prime_barrel",
+        "real_cn_name": "毒芽 Prime 枪管",
+        "ducats": 45
+    },
+    "毒芽 Prime 蓝图": {
+        "url_name": "zakti_prime_blueprint",
+        "real_cn_name": "毒芽 Prime 蓝图",
+        "ducats": 100
+    },
+    "沙罗之牙 Prime 一套": {
+        "url_name": "sarofang_prime_set",
+        "real_cn_name": "沙罗之牙 Prime 一套",
+        "ducats": 160
+    },
+    "沙罗之牙 Prime 刀刃": {
+        "url_name": "sarofang_prime_blade",
+        "real_cn_name": "沙罗之牙 Prime 刀刃",
+        "ducats": 100
+    },
+    "沙罗之牙 Prime 握柄": {
+        "url_name": "sarofang_prime_handle",
+        "real_cn_name": "沙罗之牙 Prime 握柄",
+        "ducats": 15
+    },
+    "沙罗之牙 Prime 蓝图": {
+        "url_name": "sarofang_prime_blueprint",
+        "real_cn_name": "沙罗之牙 Prime 蓝图",
+        "ducats": 45
+    },
+    "海波斯库拉对剑 Prime 一套": {
+        "url_name": "nami_skyla_prime_set",
+        "real_cn_name": "海波斯库拉对剑 Prime 一套",
+        "ducats": 305
+    },
+    "海波斯库拉对剑 Prime 刀刃": {
+        "url_name": "nami_skyla_prime_blade",
+        "real_cn_name": "海波斯库拉对剑 Prime 刀刃",
+        "ducats": 100
+    },
+    "海波斯库拉对剑 Prime 握柄": {
+        "url_name": "nami_skyla_prime_handle",
+        "real_cn_name": "海波斯库拉对剑 Prime 握柄",
+        "ducats": 45
+    },
+    "海波斯库拉对剑 Prime 蓝图": {
+        "url_name": "nami_skyla_prime_blueprint",
+        "real_cn_name": "海波斯库拉对剑 Prime 蓝图",
+        "ducats": 15
+    },
+    "灭杀者 Prime 一套": {
+        "url_name": "trumna_prime_set",
+        "real_cn_name": "灭杀者 Prime 一套",
+        "ducats": 260
+    },
+    "灭杀者 Prime 枪托": {
+        "url_name": "trumna_prime_stock",
+        "real_cn_name": "灭杀者 Prime 枪托",
+        "ducats": 45
+    },
+    "灭杀者 Prime 枪机": {
+        "url_name": "trumna_prime_receiver",
+        "real_cn_name": "灭杀者 Prime 枪机",
+        "ducats": 100
+    },
+    "灭杀者 Prime 枪管": {
+        "url_name": "trumna_prime_barrel",
+        "real_cn_name": "灭杀者 Prime 枪管",
+        "ducats": 100
+    },
+    "灭杀者 Prime 蓝图": {
+        "url_name": "trumna_prime_blueprint",
+        "real_cn_name": "灭杀者 Prime 蓝图",
+        "ducats": 15
+    },
+    "狂鲨 Prime 一套": {
+        "url_name": "tiberon_prime_set",
+        "real_cn_name": "狂鲨 Prime 一套",
+        "ducats": 205
+    },
+    "狂鲨 Prime 枪托": {
+        "url_name": "tiberon_prime_stock",
+        "real_cn_name": "狂鲨 Prime 枪托",
+        "ducats": 100
+    },
+    "狂鲨 Prime 枪机": {
+        "url_name": "tiberon_prime_receiver",
+        "real_cn_name": "狂鲨 Prime 枪机",
+        "ducats": 15
+    },
+    "狂鲨 Prime 枪管": {
+        "url_name": "tiberon_prime_barrel",
+        "real_cn_name": "狂鲨 Prime 枪管",
+        "ducats": 65
+    },
+    "狂鲨 Prime 蓝图": {
+        "url_name": "tiberon_prime_blueprint",
+        "real_cn_name": "狂鲨 Prime 蓝图",
+        "ducats": 25
+    },
+    "狼牙 Prime 一套": {
+        "url_name": "fang_prime_set",
+        "real_cn_name": "狼牙 Prime 一套",
+        "ducats": 95
+    },
+    "狼牙 Prime 刀刃": {
+        "url_name": "fang_prime_blade",
+        "real_cn_name": "狼牙 Prime 刀刃",
+        "ducats": 15
+    },
+    "狼牙 Prime 握柄": {
+        "url_name": "fang_prime_handle",
+        "real_cn_name": "狼牙 Prime 握柄",
+        "ducats": 25
+    },
+    "狼牙 Prime 蓝图": {
+        "url_name": "fang_prime_blueprint",
+        "real_cn_name": "狼牙 Prime 蓝图",
+        "ducats": 15
+    },
+    "猎豹 Prime 一套": {
+        "url_name": "panthera_prime_set",
+        "real_cn_name": "猎豹 Prime 一套",
+        "ducats": 260
+    },
+    "猎豹 Prime 枪托": {
+        "url_name": "panthera_prime_stock",
+        "real_cn_name": "猎豹 Prime 枪托",
+        "ducats": 45
+    },
+    "猎豹 Prime 枪机": {
+        "url_name": "panthera_prime_receiver",
+        "real_cn_name": "猎豹 Prime 枪机",
+        "ducats": 100
+    },
+    "猎豹 Prime 枪管": {
+        "url_name": "panthera_prime_barrel",
+        "real_cn_name": "猎豹 Prime 枪管",
+        "ducats": 100
+    },
+    "猎豹 Prime 蓝图": {
+        "url_name": "panthera_prime_blueprint",
+        "real_cn_name": "猎豹 Prime 蓝图",
+        "ducats": 15
+    },
+    "猛虎 Prime 一套": {
+        "url_name": "tigris_prime_set",
+        "real_cn_name": "猛虎 Prime 一套",
+        "ducats": 205
+    },
+    "猛虎 Prime 枪托": {
+        "url_name": "tigris_prime_stock",
+        "real_cn_name": "猛虎 Prime 枪托",
+        "ducats": 15
+    },
+    "猛虎 Prime 枪机": {
+        "url_name": "tigris_prime_receiver",
+        "real_cn_name": "猛虎 Prime 枪机",
+        "ducats": 45
+    },
+    "猛虎 Prime 枪管": {
+        "url_name": "tigris_prime_barrel",
+        "real_cn_name": "猛虎 Prime 枪管",
+        "ducats": 45
+    },
+    "猛虎 Prime 蓝图": {
+        "url_name": "tigris_prime_blueprint",
+        "real_cn_name": "猛虎 Prime 蓝图",
+        "ducats": 100
+    },
+    "玻之武杖 Prime 一套": {
+        "url_name": "bo_prime_set",
+        "real_cn_name": "玻之武杖 Prime 一套",
+        "ducats": 90
+    },
+    "玻之武杖 Prime 握柄": {
+        "url_name": "bo_prime_handle",
+        "real_cn_name": "玻之武杖 Prime 握柄",
+        "ducats": 45
+    },
+    "玻之武杖 Prime 蓝图": {
+        "url_name": "bo_prime_blueprint",
+        "real_cn_name": "玻之武杖 Prime 蓝图",
+        "ducats": 15
+    },
+    "玻之武杖 Prime 饰物": {
+        "url_name": "bo_prime_ornament",
+        "real_cn_name": "玻之武杖 Prime 饰物",
+        "ducats": 15
+    },
+    "瓦德雅 Prime 一套": {
+        "url_name": "vadarya_prime_set",
+        "real_cn_name": "瓦德雅 Prime 一套",
+        "ducats": 205
+    },
+    "瓦德雅 Prime 枪托": {
+        "url_name": "vadarya_prime_stock",
+        "real_cn_name": "瓦德雅 Prime 枪托",
+        "ducats": 15
+    },
+    "瓦德雅 Prime 枪机": {
+        "url_name": "vadarya_prime_receiver",
+        "real_cn_name": "瓦德雅 Prime 枪机",
+        "ducats": 45
+    },
+    "瓦德雅 Prime 枪管": {
+        "url_name": "vadarya_prime_barrel",
+        "real_cn_name": "瓦德雅 Prime 枪管",
+        "ducats": 45
+    },
+    "瓦德雅 Prime 蓝图": {
+        "url_name": "vadarya_prime_blueprint",
+        "real_cn_name": "瓦德雅 Prime 蓝图",
+        "ducats": 100
+    },
+    "瓦斯托 Prime 一套": {
+        "url_name": "vasto_prime_set",
+        "real_cn_name": "瓦斯托 Prime 一套",
+        "ducats": 75
+    },
+    "瓦斯托 Prime 枪机": {
+        "url_name": "vasto_prime_receiver",
+        "real_cn_name": "瓦斯托 Prime 枪机",
+        "ducats": 15
+    },
+    "瓦斯托 Prime 枪管": {
+        "url_name": "vasto_prime_barrel",
+        "real_cn_name": "瓦斯托 Prime 枪管",
+        "ducats": 15
+    },
+    "瓦斯托 Prime 蓝图": {
+        "url_name": "vasto_prime_blueprint",
+        "real_cn_name": "瓦斯托 Prime 蓝图",
+        "ducats": 45
+    },
+    "瓦斯托双枪 Prime 一套": {
+        "url_name": "akvasto_prime_set",
+        "real_cn_name": "瓦斯托双枪 Prime 一套",
+        "ducats": 145
+    },
+    "瓦斯托双枪 Prime 蓝图": {
+        "url_name": "akvasto_prime_blueprint",
+        "real_cn_name": "瓦斯托双枪 Prime 蓝图",
+        "ducats": 100
+    },
+    "瓦斯托双枪 Prime 连接器": {
+        "url_name": "akvasto_prime_link",
+        "real_cn_name": "瓦斯托双枪 Prime 连接器",
+        "ducats": 45
+    },
+    "甲龙双拳 Prime 一套": {
+        "url_name": "ankyros_prime_set",
+        "real_cn_name": "甲龙双拳 Prime 一套",
+        "ducats": 175
+    },
+    "甲龙双拳 Prime 刀刃": {
+        "url_name": "ankyros_prime_blade",
+        "real_cn_name": "甲龙双拳 Prime 刀刃",
+        "ducats": 65
+    },
+    "甲龙双拳 Prime 拳套": {
+        "url_name": "ankyros_prime_gauntlet",
+        "real_cn_name": "甲龙双拳 Prime 拳套",
+        "ducats": 15
+    },
+    "甲龙双拳 Prime 蓝图": {
+        "url_name": "ankyros_prime_blueprint",
+        "real_cn_name": "甲龙双拳 Prime 蓝图",
+        "ducats": 15
+    },
+    "电幻步枪 Prime 一套": {
+        "url_name": "alternox_prime_set",
+        "real_cn_name": "电幻步枪 Prime 一套",
+        "ducats": 260
+    },
+    "电幻步枪 Prime 枪托": {
+        "url_name": "alternox_prime_stock",
+        "real_cn_name": "电幻步枪 Prime 枪托",
+        "ducats": 100
+    },
+    "电幻步枪 Prime 枪机": {
+        "url_name": "alternox_prime_receiver",
+        "real_cn_name": "电幻步枪 Prime 枪机",
+        "ducats": 15
+    },
+    "电幻步枪 Prime 枪管": {
+        "url_name": "alternox_prime_barrel",
+        "real_cn_name": "电幻步枪 Prime 枪管",
+        "ducats": 45
+    },
+    "电幻步枪 Prime 蓝图": {
+        "url_name": "alternox_prime_blueprint",
+        "real_cn_name": "电幻步枪 Prime 蓝图",
+        "ducats": 100
+    },
+    "皇家拐刃 Prime 一套": {
+        "url_name": "kronen_prime_set",
+        "real_cn_name": "皇家拐刃 Prime 一套",
+        "ducats": 305
+    },
+    "皇家拐刃 Prime 刀刃": {
+        "url_name": "kronen_prime_blade",
+        "real_cn_name": "皇家拐刃 Prime 刀刃",
+        "ducats": 100
+    },
+    "皇家拐刃 Prime 握柄": {
+        "url_name": "kronen_prime_handle",
+        "real_cn_name": "皇家拐刃 Prime 握柄",
+        "ducats": 45
+    },
+    "皇家拐刃 Prime 蓝图": {
+        "url_name": "kronen_prime_blueprint",
+        "real_cn_name": "皇家拐刃 Prime 蓝图",
+        "ducats": 15
+    },
+    "盗贼双枪 Prime 一套": {
+        "url_name": "afuris_prime_set",
+        "real_cn_name": "盗贼双枪 Prime 一套",
+        "ducats": 290
+    },
+    "盗贼双枪 Prime 枪机": {
+        "url_name": "afuris_prime_receiver",
+        "real_cn_name": "盗贼双枪 Prime 枪机",
+        "ducats": 100
+    },
+    "盗贼双枪 Prime 枪管": {
+        "url_name": "afuris_prime_barrel",
+        "real_cn_name": "盗贼双枪 Prime 枪管",
+        "ducats": 15
+    },
+    "盗贼双枪 Prime 蓝图": {
+        "url_name": "afuris_prime_blueprint",
+        "real_cn_name": "盗贼双枪 Prime 蓝图",
+        "ducats": 15
+    },
+    "盗贼双枪 Prime 连接器": {
+        "url_name": "afuris_prime_link",
+        "real_cn_name": "盗贼双枪 Prime 连接器",
+        "ducats": 45
+    },
+    "眼镜蛇 & 鹤 Prime 一套": {
+        "url_name": "cobra_and_crane_prime_set",
+        "real_cn_name": "眼镜蛇 & 鹤 Prime 一套",
+        "ducats": 205
+    },
+    "眼镜蛇 & 鹤 Prime 刀刃": {
+        "url_name": "cobra_and_crane_prime_blade",
+        "real_cn_name": "眼镜蛇 & 鹤 Prime 刀刃",
+        "ducats": 45
+    },
+    "眼镜蛇 & 鹤 Prime 护手": {
+        "url_name": "cobra_and_crane_prime_guard",
+        "real_cn_name": "眼镜蛇 & 鹤 Prime 护手",
+        "ducats": 100
+    },
+    "眼镜蛇 & 鹤 Prime 握柄": {
+        "url_name": "cobra_and_crane_prime_hilt",
+        "real_cn_name": "眼镜蛇 & 鹤 Prime 握柄",
+        "ducats": 15
+    },
+    "眼镜蛇 & 鹤 Prime 蓝图": {
+        "url_name": "cobra_and_crane_prime_blueprint",
+        "real_cn_name": "眼镜蛇 & 鹤 Prime 蓝图",
+        "ducats": 45
+    },
+    "碎裂者 Prime 一套": {
+        "url_name": "astilla_prime_set",
+        "real_cn_name": "碎裂者 Prime 一套",
+        "ducats": 205
+    },
+    "碎裂者 Prime 枪托": {
+        "url_name": "astilla_prime_stock",
+        "real_cn_name": "碎裂者 Prime 枪托",
+        "ducats": 45
+    },
+    "碎裂者 Prime 枪机": {
+        "url_name": "astilla_prime_receiver",
+        "real_cn_name": "碎裂者 Prime 枪机",
+        "ducats": 15
+    },
+    "碎裂者 Prime 枪管": {
+        "url_name": "astilla_prime_barrel",
+        "real_cn_name": "碎裂者 Prime 枪管",
+        "ducats": 100
+    },
+    "碎裂者 Prime 蓝图": {
+        "url_name": "astilla_prime_blueprint",
+        "real_cn_name": "碎裂者 Prime 蓝图",
+        "ducats": 45
+    },
+    "祸根 Prime 一套": {
+        "url_name": "scourge_prime_set",
+        "real_cn_name": "祸根 Prime 一套",
+        "ducats": 260
+    },
+    "祸根 Prime 刀刃": {
+        "url_name": "scourge_prime_blade",
+        "real_cn_name": "祸根 Prime 刀刃",
+        "ducats": 15
+    },
+    "祸根 Prime 握柄": {
+        "url_name": "scourge_prime_handle",
+        "real_cn_name": "祸根 Prime 握柄",
+        "ducats": 45
+    },
+    "祸根 Prime 枪管": {
+        "url_name": "scourge_prime_barrel",
+        "real_cn_name": "祸根 Prime 枪管",
+        "ducats": 100
+    },
+    "祸根 Prime 蓝图": {
+        "url_name": "scourge_prime_blueprint",
+        "real_cn_name": "祸根 Prime 蓝图",
+        "ducats": 100
+    },
+    "科加基 Prime 一套": {
+        "url_name": "kogake_prime_set",
+        "real_cn_name": "科加基 Prime 一套",
+        "ducats": 275
+    },
+    "科加基 Prime 拳套": {
+        "url_name": "kogake_prime_gauntlet",
+        "real_cn_name": "科加基 Prime 拳套",
+        "ducats": 100
+    },
+    "科加基 Prime 蓝图": {
+        "url_name": "kogake_prime_blueprint",
+        "real_cn_name": "科加基 Prime 蓝图",
+        "ducats": 45
+    },
+    "科加基 Prime 靴子": {
+        "url_name": "kogake_prime_boot",
+        "real_cn_name": "科加基 Prime 靴子",
+        "ducats": 15
+    },
+    "科林斯 Prime 一套": {
+        "url_name": "corinth_prime_set",
+        "real_cn_name": "科林斯 Prime 一套",
+        "ducats": 260
+    },
+    "科林斯 Prime 枪托": {
+        "url_name": "corinth_prime_stock",
+        "real_cn_name": "科林斯 Prime 枪托",
+        "ducats": 100
+    },
+    "科林斯 Prime 枪机": {
+        "url_name": "corinth_prime_receiver",
+        "real_cn_name": "科林斯 Prime 枪机",
+        "ducats": 45
+    },
+    "科林斯 Prime 枪管": {
+        "url_name": "corinth_prime_barrel",
+        "real_cn_name": "科林斯 Prime 枪管",
+        "ducats": 100
+    },
+    "科林斯 Prime 蓝图": {
+        "url_name": "corinth_prime_blueprint",
+        "real_cn_name": "科林斯 Prime 蓝图",
+        "ducats": 15
+    },
+    "红隼 Prime 一套": {
+        "url_name": "kestrel_prime_set",
+        "real_cn_name": "红隼 Prime 一套",
+        "ducats": 175
+    },
+    "红隼 Prime 刀刃": {
+        "url_name": "kestrel_prime_blade",
+        "real_cn_name": "红隼 Prime 刀刃",
+        "ducats": 15
+    },
+    "红隼 Prime 握把": {
+        "url_name": "kestrel_prime_grip",
+        "real_cn_name": "红隼 Prime 握把",
+        "ducats": 100
+    },
+    "红隼 Prime 蓝图": {
+        "url_name": "kestrel_prime_blueprint",
+        "real_cn_name": "红隼 Prime 蓝图",
+        "ducats": 45
+    },
+    "绝路 Prime 一套": {
+        "url_name": "rubico_prime_set",
+        "real_cn_name": "绝路 Prime 一套",
+        "ducats": 185
+    },
+    "绝路 Prime 枪托": {
+        "url_name": "rubico_prime_stock",
+        "real_cn_name": "绝路 Prime 枪托",
+        "ducats": 45
+    },
+    "绝路 Prime 枪机": {
+        "url_name": "rubico_prime_receiver",
+        "real_cn_name": "绝路 Prime 枪机",
+        "ducats": 15
+    },
+    "绝路 Prime 枪管": {
+        "url_name": "rubico_prime_barrel",
+        "real_cn_name": "绝路 Prime 枪管",
+        "ducats": 25
+    },
+    "绝路 Prime 蓝图": {
+        "url_name": "rubico_prime_blueprint",
+        "real_cn_name": "绝路 Prime 蓝图",
+        "ducats": 100
+    },
+    "翁 Prime 一套": {
+        "url_name": "okina_prime_set",
+        "real_cn_name": "翁 Prime 一套",
+        "ducats": 220
+    },
+    "翁 Prime 刀刃": {
+        "url_name": "okina_prime_blade",
+        "real_cn_name": "翁 Prime 刀刃",
+        "ducats": 15
+    },
+    "翁 Prime 握柄": {
+        "url_name": "okina_prime_handle",
+        "real_cn_name": "翁 Prime 握柄",
+        "ducats": 45
+    },
+    "翁 Prime 蓝图": {
+        "url_name": "okina_prime_blueprint",
+        "real_cn_name": "翁 Prime 蓝图",
+        "ducats": 100
+    },
+    "翠雀 Prime 一套": {
+        "url_name": "larkspur_prime_set",
+        "real_cn_name": "翠雀 Prime 一套",
+        "ducats": 205
+    },
+    "翠雀 Prime 枪托": {
+        "url_name": "larkspur_prime_stock",
+        "real_cn_name": "翠雀 Prime 枪托",
+        "ducats": 45
+    },
+    "翠雀 Prime 枪机": {
+        "url_name": "larkspur_prime_receiver",
+        "real_cn_name": "翠雀 Prime 枪机",
+        "ducats": 45
+    },
+    "翠雀 Prime 枪管": {
+        "url_name": "larkspur_prime_barrel",
+        "real_cn_name": "翠雀 Prime 枪管",
+        "ducats": 100
+    },
+    "翠雀 Prime 蓝图": {
+        "url_name": "larkspur_prime_blueprint",
+        "real_cn_name": "翠雀 Prime 蓝图",
+        "ducats": 15
+    },
+    "脉纹 Prime 一套": {
+        "url_name": "venato_prime_set",
+        "real_cn_name": "脉纹 Prime 一套",
+        "ducats": 160
+    },
+    "脉纹 Prime 刀刃": {
+        "url_name": "venato_prime_blade",
+        "real_cn_name": "脉纹 Prime 刀刃",
+        "ducats": 100
+    },
+    "脉纹 Prime 握柄": {
+        "url_name": "venato_prime_handle",
+        "real_cn_name": "脉纹 Prime 握柄",
+        "ducats": 15
+    },
+    "脉纹 Prime 蓝图": {
+        "url_name": "venato_prime_blueprint",
+        "real_cn_name": "脉纹 Prime 蓝图",
+        "ducats": 45
+    },
+    "苍鹰 Prime 一套": {
+        "url_name": "baza_prime_set",
+        "real_cn_name": "苍鹰 Prime 一套",
+        "ducats": 225
+    },
+    "苍鹰 Prime 枪托": {
+        "url_name": "baza_prime_stock",
+        "real_cn_name": "苍鹰 Prime 枪托",
+        "ducats": 100
+    },
+    "苍鹰 Prime 枪机": {
+        "url_name": "baza_prime_receiver",
+        "real_cn_name": "苍鹰 Prime 枪机",
+        "ducats": 15
+    },
+    "苍鹰 Prime 枪管": {
+        "url_name": "baza_prime_barrel",
+        "real_cn_name": "苍鹰 Prime 枪管",
+        "ducats": 45
+    },
+    "苍鹰 Prime 蓝图": {
+        "url_name": "baza_prime_blueprint",
+        "real_cn_name": "苍鹰 Prime 蓝图",
+        "ducats": 65
+    },
+    "葬铭 Prime 一套": {
+        "url_name": "epitaph_prime_set",
+        "real_cn_name": "葬铭 Prime 一套",
+        "ducats": 160
+    },
+    "葬铭 Prime 枪机": {
+        "url_name": "epitaph_prime_receiver",
+        "real_cn_name": "葬铭 Prime 枪机",
+        "ducats": 100
+    },
+    "葬铭 Prime 枪管": {
+        "url_name": "epitaph_prime_barrel",
+        "real_cn_name": "葬铭 Prime 枪管",
+        "ducats": 45
+    },
+    "葬铭 Prime 蓝图": {
+        "url_name": "epitaph_prime_blueprint",
+        "real_cn_name": "葬铭 Prime 蓝图",
+        "ducats": 15
+    },
+    "蛟龙 Prime 一套": {
+        "url_name": "wyrm_prime_set",
+        "real_cn_name": "蛟龙 Prime 一套",
+        "ducats": 90
+    },
+    "蛟龙 Prime 外壳": {
+        "url_name": "wyrm_prime_carapace",
+        "real_cn_name": "蛟龙 Prime 外壳",
+        "ducats": 15
+    },
+    "蛟龙 Prime 头部": {
+        "url_name": "wyrm_prime_cerebrum",
+        "real_cn_name": "蛟龙 Prime 头部",
+        "ducats": 15
+    },
+    "蛟龙 Prime 系统": {
+        "url_name": "wyrm_prime_systems",
+        "real_cn_name": "蛟龙 Prime 系统",
+        "ducats": 45
+    },
+    "蛟龙 Prime 蓝图": {
+        "url_name": "wyrm_prime_blueprint",
+        "real_cn_name": "蛟龙 Prime 蓝图",
+        "ducats": 15
+    },
+    "螺钉双枪 Prime 一套": {
+        "url_name": "akbolto_prime_set",
+        "real_cn_name": "螺钉双枪 Prime 一套",
+        "ducats": 350
+    },
+    "螺钉双枪 Prime 枪机": {
+        "url_name": "akbolto_prime_receiver",
+        "real_cn_name": "螺钉双枪 Prime 枪机",
+        "ducats": 100
+    },
+    "螺钉双枪 Prime 枪管": {
+        "url_name": "akbolto_prime_barrel",
+        "real_cn_name": "螺钉双枪 Prime 枪管",
+        "ducats": 45
+    },
+    "螺钉双枪 Prime 蓝图": {
+        "url_name": "akbolto_prime_blueprint",
+        "real_cn_name": "螺钉双枪 Prime 蓝图",
+        "ducats": 15
+    },
+    "螺钉双枪 Prime 连接器": {
+        "url_name": "akbolto_prime_link",
+        "real_cn_name": "螺钉双枪 Prime 连接器",
+        "ducats": 45
+    },
+    "螺钉步枪 Prime 一套": {
+        "url_name": "boltor_prime_set",
+        "real_cn_name": "螺钉步枪 Prime 一套",
+        "ducats": 175
+    },
+    "螺钉步枪 Prime 枪托": {
+        "url_name": "boltor_prime_stock",
+        "real_cn_name": "螺钉步枪 Prime 枪托",
+        "ducats": 15
+    },
+    "螺钉步枪 Prime 枪机": {
+        "url_name": "boltor_prime_receiver",
+        "real_cn_name": "螺钉步枪 Prime 枪机",
+        "ducats": 45
+    },
+    "螺钉步枪 Prime 枪管": {
+        "url_name": "boltor_prime_barrel",
+        "real_cn_name": "螺钉步枪 Prime 枪管",
+        "ducats": 15
+    },
+    "螺钉步枪 Prime 蓝图": {
+        "url_name": "boltor_prime_blueprint",
+        "real_cn_name": "螺钉步枪 Prime 蓝图",
+        "ducats": 100
+    },
+    "西诺斯 Prime 一套": {
+        "url_name": "cernos_prime_set",
+        "real_cn_name": "西诺斯 Prime 一套",
+        "ducats": 200
+    },
+    "西诺斯 Prime 上弓臂": {
+        "url_name": "cernos_prime_upper_limb",
+        "real_cn_name": "西诺斯 Prime 上弓臂",
+        "ducats": 15
+    },
+    "西诺斯 Prime 下弓臂": {
+        "url_name": "cernos_prime_lower_limb",
+        "real_cn_name": "西诺斯 Prime 下弓臂",
+        "ducats": 100
+    },
+    "西诺斯 Prime 弓弦": {
+        "url_name": "cernos_prime_string",
+        "real_cn_name": "西诺斯 Prime 弓弦",
+        "ducats": 25
+    },
+    "西诺斯 Prime 弓身": {
+        "url_name": "cernos_prime_grip",
+        "real_cn_name": "西诺斯 Prime 弓身",
+        "ducats": 15
+    },
+    "西诺斯 Prime 蓝图": {
+        "url_name": "cernos_prime_blueprint",
+        "real_cn_name": "西诺斯 Prime 蓝图",
+        "ducats": 45
+    },
+    "觉醒双枪 Prime 一套": {
+        "url_name": "akjagara_prime_set",
+        "real_cn_name": "觉醒双枪 Prime 一套",
+        "ducats": 350
+    },
+    "觉醒双枪 Prime 枪机": {
+        "url_name": "akjagara_prime_receiver",
+        "real_cn_name": "觉醒双枪 Prime 枪机",
+        "ducats": 45
+    },
+    "觉醒双枪 Prime 枪管": {
+        "url_name": "akjagara_prime_barrel",
+        "real_cn_name": "觉醒双枪 Prime 枪管",
+        "ducats": 100
+    },
+    "觉醒双枪 Prime 蓝图": {
+        "url_name": "akjagara_prime_blueprint",
+        "real_cn_name": "觉醒双枪 Prime 蓝图",
+        "ducats": 15
+    },
+    "觉醒双枪 Prime 连接器": {
+        "url_name": "akjagara_prime_link",
+        "real_cn_name": "觉醒双枪 Prime 连接器",
+        "ducats": 45
+    },
+    "诸葛连弩 Prime 一套": {
+        "url_name": "zhuge_prime_set",
+        "real_cn_name": "诸葛连弩 Prime 一套",
+        "ducats": 220
+    },
+    "诸葛连弩 Prime 弓弦": {
+        "url_name": "zhuge_prime_string",
+        "real_cn_name": "诸葛连弩 Prime 弓弦",
+        "ducats": 15
+    },
+    "诸葛连弩 Prime 弓身": {
+        "url_name": "zhuge_prime_grip",
+        "real_cn_name": "诸葛连弩 Prime 弓身",
+        "ducats": 15
+    },
+    "诸葛连弩 Prime 枪机": {
+        "url_name": "zhuge_prime_receiver",
+        "real_cn_name": "诸葛连弩 Prime 枪机",
+        "ducats": 45
+    },
+    "诸葛连弩 Prime 枪管": {
+        "url_name": "zhuge_prime_barrel",
+        "real_cn_name": "诸葛连弩 Prime 枪管",
+        "ducats": 100
+    },
+    "诸葛连弩 Prime 蓝图": {
+        "url_name": "zhuge_prime_blueprint",
+        "real_cn_name": "诸葛连弩 Prime 蓝图",
+        "ducats": 45
+    },
+    "豪猪 Prime 一套": {
+        "url_name": "hystrix_prime_set",
+        "real_cn_name": "豪猪 Prime 一套",
+        "ducats": 160
+    },
+    "豪猪 Prime 枪机": {
+        "url_name": "hystrix_prime_receiver",
+        "real_cn_name": "豪猪 Prime 枪机",
+        "ducats": 100
+    },
+    "豪猪 Prime 枪管": {
+        "url_name": "hystrix_prime_barrel",
+        "real_cn_name": "豪猪 Prime 枪管",
+        "ducats": 15
+    },
+    "豪猪 Prime 蓝图": {
+        "url_name": "hystrix_prime_blueprint",
+        "real_cn_name": "豪猪 Prime 蓝图",
+        "ducats": 45
+    },
+    "赫利俄斯 Prime 一套": {
+        "url_name": "helios_prime_set",
+        "real_cn_name": "赫利俄斯 Prime 一套",
+        "ducats": 205
+    },
+    "赫利俄斯 Prime 外壳": {
+        "url_name": "helios_prime_carapace",
+        "real_cn_name": "赫利俄斯 Prime 外壳",
+        "ducats": 15
+    },
+    "赫利俄斯 Prime 头部": {
+        "url_name": "helios_prime_cerebrum",
+        "real_cn_name": "赫利俄斯 Prime 头部",
+        "ducats": 100
+    },
+    "赫利俄斯 Prime 系统": {
+        "url_name": "helios_prime_systems",
+        "real_cn_name": "赫利俄斯 Prime 系统",
+        "ducats": 45
+    },
+    "赫利俄斯 Prime 蓝图": {
+        "url_name": "helios_prime_blueprint",
+        "real_cn_name": "赫利俄斯 Prime 蓝图",
+        "ducats": 45
+    },
+    "轻灵月神双枪 Prime 一套": {
+        "url_name": "aksomati_prime_set",
+        "real_cn_name": "轻灵月神双枪 Prime 一套",
+        "ducats": 235
+    },
+    "轻灵月神双枪 Prime 枪机": {
+        "url_name": "aksomati_prime_receiver",
+        "real_cn_name": "轻灵月神双枪 Prime 枪机",
+        "ducats": 15
+    },
+    "轻灵月神双枪 Prime 枪管": {
+        "url_name": "aksomati_prime_barrel",
+        "real_cn_name": "轻灵月神双枪 Prime 枪管",
+        "ducats": 45
+    },
+    "轻灵月神双枪 Prime 蓝图": {
+        "url_name": "aksomati_prime_blueprint",
+        "real_cn_name": "轻灵月神双枪 Prime 蓝图",
+        "ducats": 15
+    },
+    "轻灵月神双枪 Prime 连接器": {
+        "url_name": "aksomati_prime_link",
+        "real_cn_name": "轻灵月神双枪 Prime 连接器",
+        "ducats": 100
+    },
+    "达克拉 Prime 一套": {
+        "url_name": "dakra_prime_set",
+        "real_cn_name": "达克拉 Prime 一套",
+        "ducats": 125
+    },
+    "达克拉 Prime 刀刃": {
+        "url_name": "dakra_prime_blade",
+        "real_cn_name": "达克拉 Prime 刀刃",
+        "ducats": 65
+    },
+    "达克拉 Prime 握柄": {
+        "url_name": "dakra_prime_handle",
+        "real_cn_name": "达克拉 Prime 握柄",
+        "ducats": 15
+    },
+    "达克拉 Prime 蓝图": {
+        "url_name": "dakra_prime_blueprint",
+        "real_cn_name": "达克拉 Prime 蓝图",
+        "ducats": 45
+    },
+    "迅发电浆炮 Prime 一套": {
+        "url_name": "acceltra_prime_set",
+        "real_cn_name": "迅发电浆炮 Prime 一套",
+        "ducats": 225
+    },
+    "迅发电浆炮 Prime 枪托": {
+        "url_name": "acceltra_prime_stock",
+        "real_cn_name": "迅发电浆炮 Prime 枪托",
+        "ducats": 65
+    },
+    "迅发电浆炮 Prime 枪机": {
+        "url_name": "acceltra_prime_receiver",
+        "real_cn_name": "迅发电浆炮 Prime 枪机",
+        "ducats": 45
+    },
+    "迅发电浆炮 Prime 枪管": {
+        "url_name": "acceltra_prime_barrel",
+        "real_cn_name": "迅发电浆炮 Prime 枪管",
+        "ducats": 100
+    },
+    "迅发电浆炮 Prime 蓝图": {
+        "url_name": "acceltra_prime_blueprint",
+        "real_cn_name": "迅发电浆炮 Prime 蓝图",
+        "ducats": 15
+    },
+    "迦伦提恩 Prime 一套": {
+        "url_name": "galatine_prime_set",
+        "real_cn_name": "迦伦提恩 Prime 一套",
+        "ducats": 160
+    },
+    "迦伦提恩 Prime 刀刃": {
+        "url_name": "galatine_prime_blade",
+        "real_cn_name": "迦伦提恩 Prime 刀刃",
+        "ducats": 15
+    },
+    "迦伦提恩 Prime 握柄": {
+        "url_name": "galatine_prime_handle",
+        "real_cn_name": "迦伦提恩 Prime 握柄",
+        "ducats": 45
+    },
+    "迦伦提恩 Prime 蓝图": {
+        "url_name": "galatine_prime_blueprint",
+        "real_cn_name": "迦伦提恩 Prime 蓝图",
+        "ducats": 100
+    },
+    "逐电 Prime 一套": {
+        "url_name": "velox_prime_set",
+        "real_cn_name": "逐电 Prime 一套",
+        "ducats": 160
+    },
+    "逐电 Prime 枪机": {
+        "url_name": "velox_prime_receiver",
+        "real_cn_name": "逐电 Prime 枪机",
+        "ducats": 15
+    },
+    "逐电 Prime 枪管": {
+        "url_name": "velox_prime_barrel",
+        "real_cn_name": "逐电 Prime 枪管",
+        "ducats": 100
+    },
+    "逐电 Prime 蓝图": {
+        "url_name": "velox_prime_blueprint",
+        "real_cn_name": "逐电 Prime 蓝图",
+        "ducats": 45
+    },
+    "重击巨锤 Prime 一套": {
+        "url_name": "fragor_prime_set",
+        "real_cn_name": "重击巨锤 Prime 一套",
+        "ducats": 145
+    },
+    "重击巨锤 Prime 握柄": {
+        "url_name": "fragor_prime_handle",
+        "real_cn_name": "重击巨锤 Prime 握柄",
+        "ducats": 65
+    },
+    "重击巨锤 Prime 蓝图": {
+        "url_name": "fragor_prime_blueprint",
+        "real_cn_name": "重击巨锤 Prime 蓝图",
+        "ducats": 65
+    },
+    "重击巨锤 Prime 锤头": {
+        "url_name": "fragor_prime_head",
+        "real_cn_name": "重击巨锤 Prime 锤头",
+        "ducats": 15
+    },
+    "野猪 Prime 一套": {
+        "url_name": "boar_prime_set",
+        "real_cn_name": "野猪 Prime 一套",
+        "ducats": 175
+    },
+    "野猪 Prime 枪托": {
+        "url_name": "boar_prime_stock",
+        "real_cn_name": "野猪 Prime 枪托",
+        "ducats": 100
+    },
+    "野猪 Prime 枪机": {
+        "url_name": "boar_prime_receiver",
+        "real_cn_name": "野猪 Prime 枪机",
+        "ducats": 15
+    },
+    "野猪 Prime 枪管": {
+        "url_name": "boar_prime_barrel",
+        "real_cn_name": "野猪 Prime 枪管",
+        "ducats": 45
+    },
+    "野猪 Prime 蓝图": {
+        "url_name": "boar_prime_blueprint",
+        "real_cn_name": "野猪 Prime 蓝图",
+        "ducats": 15
+    },
+    "野马 Prime 一套": {
+        "url_name": "bronco_prime_set",
+        "real_cn_name": "野马 Prime 一套",
+        "ducats": 75
+    },
+    "野马 Prime 枪机": {
+        "url_name": "bronco_prime_receiver",
+        "real_cn_name": "野马 Prime 枪机",
+        "ducats": 15
+    },
+    "野马 Prime 枪管": {
+        "url_name": "bronco_prime_barrel",
+        "real_cn_name": "野马 Prime 枪管",
+        "ducats": 45
+    },
+    "野马 Prime 蓝图": {
+        "url_name": "bronco_prime_blueprint",
+        "real_cn_name": "野马 Prime 蓝图",
+        "ducats": 15
+    },
+    "野马双枪 Prime 一套": {
+        "url_name": "akbronco_prime_set",
+        "real_cn_name": "野马双枪 Prime 一套",
+        "ducats": 60
+    },
+    "野马双枪 Prime 蓝图": {
+        "url_name": "akbronco_prime_blueprint",
+        "real_cn_name": "野马双枪 Prime 蓝图",
+        "ducats": 15
+    },
+    "野马双枪 Prime 连接器": {
+        "url_name": "akbronco_prime_link",
+        "real_cn_name": "野马双枪 Prime 连接器",
+        "ducats": 45
+    },
+    "铁钩手甲 Prime 一套": {
+        "url_name": "tekko_prime_set",
+        "real_cn_name": "铁钩手甲 Prime 一套",
+        "ducats": 275
+    },
+    "铁钩手甲 Prime 刀刃": {
+        "url_name": "tekko_prime_blade",
+        "real_cn_name": "铁钩手甲 Prime 刀刃",
+        "ducats": 100
+    },
+    "铁钩手甲 Prime 拳套": {
+        "url_name": "tekko_prime_gauntlet",
+        "real_cn_name": "铁钩手甲 Prime 拳套",
+        "ducats": 15
+    },
+    "铁钩手甲 Prime 蓝图": {
+        "url_name": "tekko_prime_blueprint",
+        "real_cn_name": "铁钩手甲 Prime 蓝图",
+        "ducats": 45
+    },
+    "阴影 Prime 一套": {
+        "url_name": "shade_prime_set",
+        "real_cn_name": "阴影 Prime 一套",
+        "ducats": 205
+    },
+    "阴影 Prime 外壳": {
+        "url_name": "shade_prime_carapace",
+        "real_cn_name": "阴影 Prime 外壳",
+        "ducats": 100
+    },
+    "阴影 Prime 头部": {
+        "url_name": "shade_prime_cerebrum",
+        "real_cn_name": "阴影 Prime 头部",
+        "ducats": 15
+    },
+    "阴影 Prime 系统": {
+        "url_name": "shade_prime_systems",
+        "real_cn_name": "阴影 Prime 系统",
+        "ducats": 45
+    },
+    "阴影 Prime 蓝图": {
+        "url_name": "shade_prime_blueprint",
+        "real_cn_name": "阴影 Prime 蓝图",
+        "ducats": 45
+    },
+    "阿利乌双枪 Prime 一套": {
+        "url_name": "akarius_prime_set",
+        "real_cn_name": "阿利乌双枪 Prime 一套",
+        "ducats": 305
+    },
+    "阿利乌双枪 Prime 枪机": {
+        "url_name": "akarius_prime_receiver",
+        "real_cn_name": "阿利乌双枪 Prime 枪机",
+        "ducats": 65
+    },
+    "阿利乌双枪 Prime 枪管": {
+        "url_name": "akarius_prime_barrel",
+        "real_cn_name": "阿利乌双枪 Prime 枪管",
+        "ducats": 15
+    },
+    "阿利乌双枪 Prime 蓝图": {
+        "url_name": "akarius_prime_blueprint",
+        "real_cn_name": "阿利乌双枪 Prime 蓝图",
+        "ducats": 100
+    },
+    "阿利乌双枪 Prime 连接器": {
+        "url_name": "akarius_prime_link",
+        "real_cn_name": "阿利乌双枪 Prime 连接器",
+        "ducats": 45
+    },
+    "降灵追猎者 Prime 一套": {
+        "url_name": "ninkondi_prime_set",
+        "real_cn_name": "降灵追猎者 Prime 一套",
+        "ducats": 260
+    },
+    "降灵追猎者 Prime 握柄": {
+        "url_name": "ninkondi_prime_handle",
+        "real_cn_name": "降灵追猎者 Prime 握柄",
+        "ducats": 100
+    },
+    "降灵追猎者 Prime 蓝图": {
+        "url_name": "ninkondi_prime_blueprint",
+        "real_cn_name": "降灵追猎者 Prime 蓝图",
+        "ducats": 15
+    },
+    "降灵追猎者 Prime 链条": {
+        "url_name": "ninkondi_prime_chain",
+        "real_cn_name": "降灵追猎者 Prime 链条",
+        "ducats": 45
+    },
+    "陨蜓 Prime 一套": {
+        "url_name": "odonata_prime_set",
+        "real_cn_name": "陨蜓 Prime 一套",
+        "ducats": 140
+    },
+    "陨蜓 Prime 外甲 蓝图": {
+        "url_name": "odonata_prime_harness_blueprint",
+        "real_cn_name": "陨蜓 Prime 外甲 蓝图",
+        "ducats": 15
+    },
+    "陨蜓 Prime 机翼 蓝图": {
+        "url_name": "odonata_prime_wings_blueprint",
+        "real_cn_name": "陨蜓 Prime 机翼 蓝图",
+        "ducats": 65
+    },
+    "陨蜓 Prime 系统 蓝图": {
+        "url_name": "odonata_prime_systems_blueprint",
+        "real_cn_name": "陨蜓 Prime 系统 蓝图",
+        "ducats": 15
+    },
+    "陨蜓 Prime 蓝图": {
+        "url_name": "odonata_prime_blueprint",
+        "real_cn_name": "陨蜓 Prime 蓝图",
+        "ducats": 45
+    },
+    "雷克斯 Prime 一套": {
+        "url_name": "lex_prime_set",
+        "real_cn_name": "雷克斯 Prime 一套",
+        "ducats": 55
+    },
+    "雷克斯 Prime 枪机": {
+        "url_name": "lex_prime_receiver",
+        "real_cn_name": "雷克斯 Prime 枪机",
+        "ducats": 15
+    },
+    "雷克斯 Prime 枪管": {
+        "url_name": "lex_prime_barrel",
+        "real_cn_name": "雷克斯 Prime 枪管",
+        "ducats": 15
+    },
+    "雷克斯 Prime 蓝图": {
+        "url_name": "lex_prime_blueprint",
+        "real_cn_name": "雷克斯 Prime 蓝图",
+        "ducats": 25
+    },
+    "雷克斯双枪 Prime 一套": {
+        "url_name": "aklex_prime_set",
+        "real_cn_name": "雷克斯双枪 Prime 一套",
+        "ducats": 145
+    },
+    "雷克斯双枪 Prime 蓝图": {
+        "url_name": "aklex_prime_blueprint",
+        "real_cn_name": "雷克斯双枪 Prime 蓝图",
+        "ducats": 45
+    },
+    "雷克斯双枪 Prime 连接器": {
+        "url_name": "aklex_prime_link",
+        "real_cn_name": "雷克斯双枪 Prime 连接器",
+        "ducats": 100
+    },
+    "雷霆 Prime 一套": {
+        "url_name": "fulmin_prime_set",
+        "real_cn_name": "雷霆 Prime 一套",
+        "ducats": 205
+    },
+    "雷霆 Prime 枪托": {
+        "url_name": "fulmin_prime_stock",
+        "real_cn_name": "雷霆 Prime 枪托",
+        "ducats": 45
+    },
+    "雷霆 Prime 枪机": {
+        "url_name": "fulmin_prime_receiver",
+        "real_cn_name": "雷霆 Prime 枪机",
+        "ducats": 100
+    },
+    "雷霆 Prime 枪管": {
+        "url_name": "fulmin_prime_barrel",
+        "real_cn_name": "雷霆 Prime 枪管",
+        "ducats": 15
+    },
+    "雷霆 Prime 蓝图": {
+        "url_name": "fulmin_prime_blueprint",
+        "real_cn_name": "雷霆 Prime 蓝图",
+        "ducats": 45
+    },
+    "飞扬 Prime 一套": {
+        "url_name": "hikou_prime_set",
+        "real_cn_name": "飞扬 Prime 一套",
+        "ducats": 75
+    },
+    "飞扬 Prime 星镖": {
+        "url_name": "hikou_prime_stars",
+        "real_cn_name": "飞扬 Prime 星镖",
+        "ducats": 15
+    },
+    "飞扬 Prime 蓝图": {
+        "url_name": "hikou_prime_blueprint",
+        "real_cn_name": "飞扬 Prime 蓝图",
+        "ducats": 15
+    },
+    "飞扬 Prime 镖袋": {
+        "url_name": "hikou_prime_pouch",
+        "real_cn_name": "飞扬 Prime 镖袋",
+        "ducats": 15
+    },
+    "食人鱼 Prime 一套": {
+        "url_name": "pyrana_prime_set",
+        "real_cn_name": "食人鱼 Prime 一套",
+        "ducats": 160
+    },
+    "食人鱼 Prime 枪机": {
+        "url_name": "pyrana_prime_receiver",
+        "real_cn_name": "食人鱼 Prime 枪机",
+        "ducats": 45
+    },
+    "食人鱼 Prime 枪管": {
+        "url_name": "pyrana_prime_barrel",
+        "real_cn_name": "食人鱼 Prime 枪管",
+        "ducats": 15
+    },
+    "食人鱼 Prime 蓝图": {
+        "url_name": "pyrana_prime_blueprint",
+        "real_cn_name": "食人鱼 Prime 蓝图",
+        "ducats": 100
+    },
+    "鲮鲤剑 Prime 一套": {
+        "url_name": "pangolin_prime_set",
+        "real_cn_name": "鲮鲤剑 Prime 一套",
+        "ducats": 160
+    },
+    "鲮鲤剑 Prime 刀刃": {
+        "url_name": "pangolin_prime_blade",
+        "real_cn_name": "鲮鲤剑 Prime 刀刃",
+        "ducats": 45
+    },
+    "鲮鲤剑 Prime 握柄": {
+        "url_name": "pangolin_prime_handle",
+        "real_cn_name": "鲮鲤剑 Prime 握柄",
+        "ducats": 15
+    },
+    "鲮鲤剑 Prime 蓝图": {
+        "url_name": "pangolin_prime_blueprint",
+        "real_cn_name": "鲮鲤剑 Prime 蓝图",
+        "ducats": 100
+    },
+    "鹦鹉螺 Prime 一套": {
+        "url_name": "nautilus_prime_set",
+        "real_cn_name": "鹦鹉螺 Prime 一套",
+        "ducats": 260
+    },
+    "鹦鹉螺 Prime 外壳": {
+        "url_name": "nautilus_prime_carapace",
+        "real_cn_name": "鹦鹉螺 Prime 外壳",
+        "ducats": 15
+    },
+    "鹦鹉螺 Prime 头部": {
+        "url_name": "nautilus_prime_cerebrum",
+        "real_cn_name": "鹦鹉螺 Prime 头部",
+        "ducats": 100
+    },
+    "鹦鹉螺 Prime 系统": {
+        "url_name": "nautilus_prime_systems",
+        "real_cn_name": "鹦鹉螺 Prime 系统",
+        "ducats": 45
+    },
+    "鹦鹉螺 Prime 蓝图": {
+        "url_name": "nautilus_prime_blueprint",
+        "real_cn_name": "鹦鹉螺 Prime 蓝图",
+        "ducats": 100
+    },
+    "麦格努斯 Prime 一套": {
+        "url_name": "magnus_prime_set",
+        "real_cn_name": "麦格努斯 Prime 一套",
+        "ducats": 160
+    },
+    "麦格努斯 Prime 枪机": {
+        "url_name": "magnus_prime_receiver",
+        "real_cn_name": "麦格努斯 Prime 枪机",
+        "ducats": 45
+    },
+    "麦格努斯 Prime 枪管": {
+        "url_name": "magnus_prime_barrel",
+        "real_cn_name": "麦格努斯 Prime 枪管",
+        "ducats": 100
+    },
+    "麦格努斯 Prime 蓝图": {
+        "url_name": "magnus_prime_blueprint",
+        "real_cn_name": "麦格努斯 Prime 蓝图",
+        "ducats": 15
+    },
+    "麦格努斯双枪 Prime 一套": {
+        "url_name": "akmagnus_prime_set",
+        "real_cn_name": "麦格努斯双枪 Prime 一套",
+        "ducats": 60
+    },
+    "麦格努斯双枪 Prime 蓝图": {
+        "url_name": "akmagnus_prime_blueprint",
+        "real_cn_name": "麦格努斯双枪 Prime 蓝图",
+        "ducats": 15
+    },
+    "麦格努斯双枪 Prime 连接器": {
+        "url_name": "akmagnus_prime_link",
+        "real_cn_name": "麦格努斯双枪 Prime 连接器",
+        "ducats": 45
+    },
+    "黑鸦 Prime 一套": {
+        "url_name": "corvas_prime_set",
+        "real_cn_name": "黑鸦 Prime 一套",
+        "ducats": 175
+    },
+    "黑鸦 Prime 枪托": {
+        "url_name": "corvas_prime_stock",
+        "real_cn_name": "黑鸦 Prime 枪托",
+        "ducats": 15
+    },
+    "黑鸦 Prime 枪机": {
+        "url_name": "corvas_prime_receiver",
+        "real_cn_name": "黑鸦 Prime 枪机",
+        "ducats": 15
+    },
+    "黑鸦 Prime 枪管": {
+        "url_name": "corvas_prime_barrel",
+        "real_cn_name": "黑鸦 Prime 枪管",
+        "ducats": 100
+    },
+    "黑鸦 Prime 蓝图": {
+        "url_name": "corvas_prime_blueprint",
+        "real_cn_name": "黑鸦 Prime 蓝图",
+        "ducats": 45
+    },
+    "龙辰 Prime 一套": {
+        "url_name": "tatsu_prime_set",
+        "real_cn_name": "龙辰 Prime 一套",
+        "ducats": 160
+    },
+    "龙辰 Prime 刀刃": {
+        "url_name": "tatsu_prime_blade",
+        "real_cn_name": "龙辰 Prime 刀刃",
+        "ducats": 45
+    },
+    "龙辰 Prime 握柄": {
+        "url_name": "tatsu_prime_handle",
+        "real_cn_name": "龙辰 Prime 握柄",
+        "ducats": 100
+    },
+    "龙辰 Prime 蓝图": {
+        "url_name": "tatsu_prime_blueprint",
+        "real_cn_name": "龙辰 Prime 蓝图",
+        "ducats": 15
+    }
+}

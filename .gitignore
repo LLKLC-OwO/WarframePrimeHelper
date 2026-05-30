@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+.venv312/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+test_ocr_*.spec
+
+# 本地配置与缓存（勿提交个人环境）
+config.json
+wfinfo_prices_cache.json
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
+
+# 测试/脚本输出
+scripts/*_report.txt
+scripts/test_out.txt
+scripts/ocr_*.txt
+scripts/audit_composite_report.txt
+scripts/scan_report.txt
+scripts/image_test_report.txt
+
+# 杂项大文件（可选本地保留）
+wiki_api_test.json
+wiki.html
+overframe_cn_code.html
+fandom_mapping_page.html
+huiji_api.json
+userdict_api.json
+wfm_dictionary_old.json
